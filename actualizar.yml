@@ -1,0 +1,36 @@
+name: Actualizar Guia Deportiva
+
+on:
+  schedule:
+    # Esto lo ejecuta todos los días a las 9:00 AM UTC (que son las 6:00 AM de Argentina)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Esto te permite ejecutarlo con un botón cuando quieras
+
+permissions:
+  contents: write
+
+jobs:
+  crear_json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: pip install requests xmltodict
+
+      - name: Ejecutar el Robot
+        run: python generar_epg.py
+
+      - name: Guardar el nuevo JSON en el repositorio
+        run: |
+          git config --global user.name "Robot de AdKiller"
+          git config --global user.email "robot@adkiller.com"
+          git add guia_deportes.json
+          git commit -m "Actualizar guía de deportes" || exit 0
+          git push
