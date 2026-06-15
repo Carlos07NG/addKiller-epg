@@ -1,12 +1,10 @@
-name: Instalar dependencias
-run: pip install requests
 name: Actualizar Guia Deportiva
 
 on:
   schedule:
-    # Esto lo ejecuta todos los días a las 9:00 AM UTC (que son las 6:00 AM de Argentina)
+    # Se ejecuta todos los días a las 9:00 AM UTC
     - cron: '0 9 * * *'
-  workflow_dispatch: # Esto te permite ejecutarlo con un botón cuando quieras
+  workflow_dispatch: 
 
 permissions:
   contents: write
@@ -24,7 +22,7 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependencias
-        run: pip install requests xmltodict
+        run: pip install requests
 
       - name: Ejecutar el Robot
         run: python generar_epg.py
@@ -34,5 +32,6 @@ jobs:
           git config --global user.name "Robot de AdKiller"
           git config --global user.email "robot@adkiller.com"
           git add guia_deportes.json
+          # El || exit 0 evita que falle si no hubo cambios
           git commit -m "Actualizar guía de deportes" || exit 0
           git push
