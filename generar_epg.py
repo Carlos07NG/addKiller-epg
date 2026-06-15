@@ -1,51 +1,41 @@
 import requests
 import json
+import re
 
 def generar_guia_json():
     url = "https://iptv-epg.org/files/epg-ar.xml"
-    print("Descargando EPG...")
+    print("Descargando todo el contenido...")
     
-    # Descargamos el archivo como texto crudo
     response = requests.get(url)
     contenido = response.text
     
-    guia_filtrada = []
-    # IDs de canales que buscas
-    canales_interes = ["ESPN.ar", "TyCSports.ar", "FoxSports.ar", "DSports.ar"]
+    # Expresión regular para capturar el canal, el título y la hora en cualquier orden
+    # Buscamos bloques que empiecen con <programme y terminen en </programme>
+    patron = re.compile(r'<programme\s+channel="([^"]+)".*?>.*?<title[^>]*>(.*?)</title>.*?start="([^"]+)"', re.DOTALL)
     
-    # Separamos el contenido en bloques de 'programme' manualmente
-    bloques = contenido.split('<programme')
+    todos_los_eventos = []
     
-    for bloque in bloques:
-        # Buscamos el canal y el título en cada bloque
-        for canal_id in canales_interes:
-            if f'channel="{canal_id}"' in bloque:
-                # Extraemos el título (buscamos entre <title... y </title>)
-                inicio_titulo = bloque.find('<title')
-                if inicio_titulo != -1:
-                    inicio_texto = bloque.find('>', inicio_titulo) + 1
-                    fin_texto = bloque.find('</title>', inicio_texto)
-                    titulo = bloque[inicio_texto:fin_texto]
-                    
-                    # Extraemos la hora (buscamos start="YYYYMMDDHHMMSS")
-                    inicio_start = bloque.find('start="')
-                    if inicio_start != -1:
-                        hora_raw = bloque[inicio_start+7 : inicio_start+19] # Extraemos 12 dígitos
-                        hora = f"{hora_raw[8:10]}:{hora_raw[10:12]}"
-                        
-                        guia_filtrada.append({
-                            "canal": canal_id.replace(".ar", ""), 
-                            "evento": titulo, 
-                            "hora": hora
-                        })
-                break
+    # Encontramos todas las coincidencias en el texto
+    matches = patron.findall(contenido)
+    
+    for match in matches:
+        canal, titulo, start = match
+        # Formateamos la hora: YYYYMMDDHHMMSS -> HH:MM
+        hora = f"{start[8:10]}:{start[10:12]}"
         
-        if len(guia_filtrada) >= 15: break
+        todos_los_eventos.append({
+            "canal": canal,
+            "evento": titulo,
+            "hora": hora
+        })
+        
+        # Limitamos a 50 eventos para no saturar el JSON y que la App cargue rápido
+        if len(todos_los_eventos) >= 50:
+            break
 
-    # Guardamos el JSON
     with open('guia_deportes.json', 'w', encoding='utf-8') as f:
-        json.dump(guia_filtrada, f, ensure_ascii=False, indent=4)
-    print("¡Éxito! Archivo generado ignorando errores de formato.")
+        json.dump(todos_los_eventos, f, ensure_ascii=False, indent=4)
+    print(f"Éxito: Se procesaron {len(todos_los_eventos)} canales/eventos.")
 
 if __name__ == "__main__":
     generar_guia_json()
