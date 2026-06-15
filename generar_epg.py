@@ -1,37 +1,51 @@
-import ijson # Librería para leer archivos gigantes sin cargar todo en RAM
-import json
 import requests
+import json
 
 def generar_guia_json():
     url = "https://iptv-epg.org/files/epg-ar.xml"
+    print("Descargando EPG...")
     
-    # Abrimos la conexión como stream (sin descargar todo a RAM)
-    r = requests.get(url, stream=True)
+    # Descargamos el archivo como texto crudo
+    response = requests.get(url)
+    contenido = response.text
     
     guia_filtrada = []
-    canales_interes = ["ESPN.ar", "TyCSports.ar", "FoxSports.ar"]
+    # IDs de canales que buscas
+    canales_interes = ["ESPN.ar", "TyCSports.ar", "FoxSports.ar", "DSports.ar"]
     
-    # Usamos ijson para iterar el XML objeto por objeto
-    # Nota: Como XMLTV es complejo, leeremos solo los tags 'programme'
-    import xml.etree.ElementTree as ET
+    # Separamos el contenido en bloques de 'programme' manualmente
+    bloques = contenido.split('<programme')
     
-    context = ET.iterparse(r.raw, events=('end',))
-    for event, elem in context:
-        if elem.tag == 'programme':
-            canal = elem.get('channel')
-            if canal in canales_interes:
-                titulo = elem.find('title').text if elem.find('title') is not None else "Sin título"
-                hora_raw = elem.get('start', '00000000000000')
-                hora = f"{hora_raw[8:10]}:{hora_raw[10:12]}"
-                
-                guia_filtrada.append({"canal": canal, "evento": titulo, "hora": hora})
-                if len(guia_filtrada) >= 15: break
-            
-            # Limpiamos el elemento para liberar RAM
-            elem.clear()
-            
+    for bloque in bloques:
+        # Buscamos el canal y el título en cada bloque
+        for canal_id in canales_interes:
+            if f'channel="{canal_id}"' in bloque:
+                # Extraemos el título (buscamos entre <title... y </title>)
+                inicio_titulo = bloque.find('<title')
+                if inicio_titulo != -1:
+                    inicio_texto = bloque.find('>', inicio_titulo) + 1
+                    fin_texto = bloque.find('</title>', inicio_texto)
+                    titulo = bloque[inicio_texto:fin_texto]
+                    
+                    # Extraemos la hora (buscamos start="YYYYMMDDHHMMSS")
+                    inicio_start = bloque.find('start="')
+                    if inicio_start != -1:
+                        hora_raw = bloque[inicio_start+7 : inicio_start+19] # Extraemos 12 dígitos
+                        hora = f"{hora_raw[8:10]}:{hora_raw[10:12]}"
+                        
+                        guia_filtrada.append({
+                            "canal": canal_id.replace(".ar", ""), 
+                            "evento": titulo, 
+                            "hora": hora
+                        })
+                break
+        
+        if len(guia_filtrada) >= 15: break
+
+    # Guardamos el JSON
     with open('guia_deportes.json', 'w', encoding='utf-8') as f:
         json.dump(guia_filtrada, f, ensure_ascii=False, indent=4)
+    print("¡Éxito! Archivo generado ignorando errores de formato.")
 
 if __name__ == "__main__":
     generar_guia_json()
