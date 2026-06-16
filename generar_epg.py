@@ -25,6 +25,7 @@ def generar_guia_json():
         print("Procesando XML con Regex...")
         patron = re.compile(r'<programme\s+channel="([^"]+)".*?>.*?<title[^>]*>(.*?)</title>.*?start="([^"]+)"', re.DOTALL)
         matches = patron.findall(xml_content)
+        print("Cantidad de matches:", len(matches))
         
         todos_los_eventos = []
         print(f"Se encontraron {len(matches)} programas.")
