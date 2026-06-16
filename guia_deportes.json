@@ -1,5002 +1,982 @@
 [
     {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Grito sagrado",
-        "hora": "21:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Contenido variado",
-        "hora": "23:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Espacio para Todos",
-        "hora": "00:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Trasnoche de 24/7",
-        "hora": "01:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "La mañana es de la primera",
-        "hora": "09:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Así estamos",
-        "hora": "13:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Noticiero central - Primera edición",
-        "hora": "16:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
+        "canal": "24/7CanaldeNoticias.ar",
         "evento": "Tardes de primera",
-        "hora": "17:00"
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Entretiempo",
-        "hora": "19:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Grito sagrado",
-        "hora": "21:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Contenido variado",
-        "hora": "23:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Panorama",
-        "hora": "00:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Trasnoche de 24/7",
-        "hora": "01:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "La mañana es de la primera",
-        "hora": "09:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Así estamos",
-        "hora": "13:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Noticiero central - Primera edición",
-        "hora": "16:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Tardes de primera",
-        "hora": "17:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Entretiempo",
-        "hora": "19:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Grito sagrado",
-        "hora": "21:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Trasnoche de 24/7",
-        "hora": "23:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Nos vamos",
-        "hora": "00:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Trasnoche de 24/7",
-        "hora": "01:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "La mañana es de la primera",
-        "hora": "09:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Así estamos",
-        "hora": "13:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Noticiero central - Primera edición",
-        "hora": "16:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Tardes de primera",
-        "hora": "17:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Entretiempo",
-        "hora": "19:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Grito sagrado",
-        "hora": "21:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Contenido variado",
-        "hora": "23:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Otro dato",
-        "hora": "00:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Trasnoche de 24/7",
-        "hora": "01:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "La mañana es de la primera",
-        "hora": "09:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Así estamos",
-        "hora": "13:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Noticiero central - Primera edición",
-        "hora": "16:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Tardes de primera",
-        "hora": "17:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Entretiempo",
-        "hora": "19:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Grito sagrado",
-        "hora": "21:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Trasnoche de 24/7",
-        "hora": "23:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Entre espuelas y guitarras",
-        "hora": "09:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Informe semanal",
-        "hora": "12:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Neuquén.ar",
-        "hora": "14:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Contenido variado",
-        "hora": "16:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Los vencedores del tiempo",
-        "hora": "23:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Trasnoche de 24/7",
-        "hora": "03:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Entre espuelas y guitarras",
-        "hora": "09:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Contenido variado",
-        "hora": "14:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Contenido variado",
-        "hora": "16:00"
-    },
-    {
-        "canal": "24/7CANALDENOTICIAS",
-        "evento": "Los vencedores del tiempo",
-        "hora": "23:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H17",
-        "hora": "20:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El noticiero de A24",
-        "hora": "21:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H 20, información clave",
-        "hora": "23:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Wifi 24",
-        "hora": "00:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Noche de noticias",
-        "hora": "01:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Basta Baby",
-        "hora": "02:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Luis Novaresio entrevista",
-        "hora": "03:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El valor de tus joyas",
-        "hora": "04:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "TeveCompras",
-        "hora": "05:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "06:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Reporter",
-        "hora": "08:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Otra mañana",
-        "hora": "09:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Buen día A24",
-        "hora": "13:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Arranca la tarde en A24",
-        "hora": "16:00"
-    },
-    {
-        "canal": "A24",
+        "canal": "A24.ar",
         "evento": "Agenda A24",
-        "hora": "17:30"
+        "hora_inicio": "17:30",
+        "hora_fin": "19:00",
+        "progreso": 47
     },
     {
-        "canal": "A24",
-        "evento": "Hora crítica en A24",
-        "hora": "19:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H17",
-        "hora": "20:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El noticiero de A24",
-        "hora": "21:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H 20, información clave",
-        "hora": "23:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Wifi 24",
-        "hora": "00:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Noche de noticias",
-        "hora": "01:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Basta Baby",
-        "hora": "02:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Vivo A24",
-        "hora": "03:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El valor de tus joyas",
-        "hora": "04:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "TeveCompras",
-        "hora": "05:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "06:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Reporter",
-        "hora": "08:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Otra mañana",
-        "hora": "09:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Buen día A24",
-        "hora": "13:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Arranca la tarde en A24",
-        "hora": "16:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Agenda A24",
-        "hora": "17:30"
-    },
-    {
-        "canal": "A24",
-        "evento": "Hora crítica en A24",
-        "hora": "19:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H17",
-        "hora": "20:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El noticiero de A24",
-        "hora": "21:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H 20, información clave",
-        "hora": "23:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Wifi 24",
-        "hora": "00:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Noche de noticias",
-        "hora": "01:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Basta Baby",
-        "hora": "02:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Luis Novaresio entrevista",
-        "hora": "03:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El valor de tus joyas",
-        "hora": "04:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "TeveCompras",
-        "hora": "05:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "06:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Reporter",
-        "hora": "08:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Otra mañana",
-        "hora": "09:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Buen día A24",
-        "hora": "13:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Arranca la tarde en A24",
-        "hora": "16:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Agenda A24",
-        "hora": "17:30"
-    },
-    {
-        "canal": "A24",
-        "evento": "Hora crítica en A24",
-        "hora": "19:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H17",
-        "hora": "20:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El noticiero de A24",
-        "hora": "21:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H 20, información clave",
-        "hora": "23:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Wifi 24",
-        "hora": "00:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Noche de noticias",
-        "hora": "01:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Basta Baby",
-        "hora": "02:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Luis Novaresio entrevista",
-        "hora": "03:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El valor de tus joyas",
-        "hora": "04:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "TeveCompras",
-        "hora": "05:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "06:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Reporter",
-        "hora": "08:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Otra mañana",
-        "hora": "09:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Buen día A24",
-        "hora": "13:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Arranca la tarde en A24",
-        "hora": "16:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Agenda A24",
-        "hora": "17:30"
-    },
-    {
-        "canal": "A24",
-        "evento": "Hora crítica en A24",
-        "hora": "19:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H17",
-        "hora": "20:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El noticiero de A24",
-        "hora": "21:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "H 20, información clave",
-        "hora": "23:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Wifi 24",
-        "hora": "00:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "24 noticias",
-        "hora": "01:30"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "03:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "LP Moda",
-        "hora": "03:30"
-    },
-    {
-        "canal": "A24",
-        "evento": "El valor de tus joyas",
-        "hora": "04:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "TeveCompras",
-        "hora": "05:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "06:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "08:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Vivo el sábado",
-        "hora": "10:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "A24 Internacional",
-        "hora": "17:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "17:30"
-    },
-    {
-        "canal": "A24",
-        "evento": "Mundo visual",
-        "hora": "18:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El diario de la tarde",
-        "hora": "19:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "22:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Indignados",
-        "hora": "22:45"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "01:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "LP Moda",
-        "hora": "04:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "04:30"
-    },
-    {
-        "canal": "A24",
-        "evento": "TeveCompras",
-        "hora": "05:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "06:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Mundo visual",
-        "hora": "08:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "09:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Arriba domingo",
-        "hora": "10:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Luis Novaresio entrevista",
-        "hora": "16:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Mundo visual",
-        "hora": "17:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Lo mejor de A24",
-        "hora": "18:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "El diario de la tarde",
-        "hora": "19:00"
-    },
-    {
-        "canal": "A24",
-        "evento": "Equipo de periodistas",
-        "hora": "22:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Audi vs. Lancia: carrera por la gloria",
-        "hora": "20:50"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Los juegos del hambre: Sinsajo - Parte 1",
-        "hora": "22:50"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Parish",
-        "hora": "01:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Hércules",
-        "hora": "01:50"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Al borde del abismo",
-        "hora": "03:40"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Hoy 13, mañana 30",
-        "hora": "05:40"
-    },
-    {
-        "canal": "AMC",
-        "evento": "El orfanato",
-        "hora": "07:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "09:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "14:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "14:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Temporada de brujas",
-        "hora": "15:00"
-    },
-    {
-        "canal": "AMC",
+        "canal": "AMC.ar",
         "evento": "El diario de Bridget Jones",
-        "hora": "16:45"
+        "hora_inicio": "16:45",
+        "hora_fin": "18:45",
+        "progreso": 72
     },
     {
-        "canal": "AMC",
-        "evento": "Bridget Jones, al borde de la razón",
-        "hora": "18:45"
+        "canal": "AXN.ar",
+        "evento": "SWAT",
+        "hora_inicio": "17:34",
+        "hora_fin": "18:30",
+        "progreso": 68
     },
     {
-        "canal": "AMC",
-        "evento": "El bebé de Bridget Jones",
-        "hora": "20:50"
+        "canal": "AmericaSports.ar",
+        "evento": "Turismo y cultura",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "AMC",
-        "evento": "Agente Salt",
-        "hora": "23:05"
+        "canal": "AmericaTV.ar",
+        "evento": "El diario de Mariana",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:30",
+        "progreso": 13
     },
     {
-        "canal": "AMC",
-        "evento": "Blade Runner 2049",
-        "hora": "01:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Ciudad de asfalto",
-        "hora": "03:40"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Priest, el vengador",
-        "hora": "05:55"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Los señores de la mafia",
-        "hora": "07:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "09:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "El apocalipsis",
-        "hora": "14:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "El bebé de Bridget Jones",
-        "hora": "16:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Agente Salt",
-        "hora": "18:15"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Blade Runner 2049",
-        "hora": "20:10"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Tesla: El hombre eléctrico",
-        "hora": "23:05"
-    },
-    {
-        "canal": "AMC",
-        "evento": "RoboCop",
-        "hora": "01:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "La noche del demonio: La última llave",
-        "hora": "03:10"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Un paseo por las tumbas",
-        "hora": "05:05"
-    },
-    {
-        "canal": "AMC",
-        "evento": "2067",
-        "hora": "07:10"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "09:10"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "09:35"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "14:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "El diario de Bridget Jones",
-        "hora": "14:25"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Bridget Jones, al borde de la razón",
-        "hora": "16:20"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Blade Runner 2049",
-        "hora": "18:20"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Agente Salt",
-        "hora": "21:15"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Audi vs. Lancia: carrera por la gloria",
-        "hora": "23:05"
-    },
-    {
-        "canal": "AMC",
-        "evento": "La batalla de Los Ángeles",
-        "hora": "01:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Sicario: día del soldado",
-        "hora": "03:05"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Los señores de la mafia",
-        "hora": "05:20"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Una oración antes del amanecer",
-        "hora": "07:20"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "09:35"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "13:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "14:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Planet Action",
-        "hora": "14:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Temporada de brujas",
-        "hora": "14:55"
-    },
-    {
-        "canal": "AMC",
-        "evento": "El peso del talento",
-        "hora": "16:35"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Tesla: El hombre eléctrico",
-        "hora": "18:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "La batalla de Los Ángeles",
-        "hora": "20:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Creed",
-        "hora": "22:35"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Machete",
-        "hora": "01:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Los indestructibles 2",
-        "hora": "03:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Sicario: día del soldado",
-        "hora": "04:50"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Un paseo por las tumbas",
-        "hora": "07:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Making the Movies",
-        "hora": "09:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Making the Movies",
-        "hora": "09:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Making the Movies",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Making the Movies",
-        "hora": "13:25"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Temporada de brujas",
-        "hora": "13:50"
-    },
-    {
-        "canal": "AMC",
-        "evento": "El peso del talento",
-        "hora": "15:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Desesperada",
-        "hora": "17:25"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Audi vs. Lancia: carrera por la gloria",
-        "hora": "19:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Tesla: El hombre eléctrico",
-        "hora": "21:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "RoboCop",
-        "hora": "22:55"
-    },
-    {
-        "canal": "AMC",
-        "evento": "El Hobbit: Un viaje inesperado",
-        "hora": "01:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Parish",
-        "hora": "04:05"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Crepúsculo: Twilight",
-        "hora": "04:55"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Una oración antes del amanecer",
-        "hora": "07:10"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Making the Movies",
-        "hora": "09:25"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "10:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Infomerciales",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Making the Movies",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Desesperada",
-        "hora": "13:30"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Solo los valientes",
-        "hora": "15:05"
-    },
-    {
-        "canal": "AMC",
-        "evento": "RoboCop",
-        "hora": "17:35"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Creed",
-        "hora": "19:45"
-    },
-    {
-        "canal": "AMC",
-        "evento": "Blade Runner 2049",
-        "hora": "22:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Criaturas misteriosas",
-        "hora": "20:09"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "21:00"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "21:53"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "22:19"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "22:44"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "23:36"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Mascotas revoltosas",
-        "hora": "00:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
+        "canal": "AnimalPlanet.ar",
         "evento": "El zoológico del Bronx",
-        "hora": "01:21"
+        "hora_inicio": "17:34",
+        "hora_fin": "18:26",
+        "progreso": 73
     },
     {
-        "canal": "ANIMALPLANET",
-        "evento": "El zoológico del Bronx",
-        "hora": "02:14"
+        "canal": "ArgentinisimaSatelital.ar",
+        "evento": "Argentinisima satelital",
+        "hora_inicio": "18:00",
+        "hora_fin": "21:00",
+        "progreso": 6
     },
     {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes al rescate",
-        "hora": "03:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "03:57"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "04:49"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Mascotas revoltosas",
-        "hora": "05:38"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El zoológico del Bronx",
-        "hora": "06:29"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El zoológico del Bronx",
-        "hora": "07:19"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes al rescate",
-        "hora": "08:09"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Tiburones caminantes de Nueva Guinea",
-        "hora": "09:00"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El gran Mako: depredador perfecto",
-        "hora": "09:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "10:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Tiburones caminantes de Nueva Guinea",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "12:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "13:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "14:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "14:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Mascotas revoltosas",
-        "hora": "15:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El zoológico del Bronx",
-        "hora": "16:42"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El zoológico del Bronx",
-        "hora": "17:34"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes al rescate",
-        "hora": "18:26"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Piscinas increíbles",
-        "hora": "19:18"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "20:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "21:02"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "21:54"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "22:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El tigre siberiano",
-        "hora": "22:46"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Tiburones caminantes de Nueva Guinea",
-        "hora": "23:38"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "00:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "01:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "02:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "03:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Tiburones caminantes de Nueva Guinea",
-        "hora": "04:42"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "05:32"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "06:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "07:19"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El tigre siberiano",
-        "hora": "08:09"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "09:00"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "09:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "10:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Wild Frank en México",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "12:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "13:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El tigre siberiano",
-        "hora": "14:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Tiburones caminantes de Nueva Guinea",
-        "hora": "14:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "15:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "16:42"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "17:34"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "18:26"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Mascotas revoltosas",
-        "hora": "20:02"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "20:56"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "21:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "22:19"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "22:46"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "23:38"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "00:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Wild Frank en México",
-        "hora": "01:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "02:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "03:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "03:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "04:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "05:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Wild Frank en México",
-        "hora": "06:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "07:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "08:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Un vínculo especial",
-        "hora": "09:00"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Jeff Corwin en acción",
-        "hora": "09:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Jeff Corwin en acción",
-        "hora": "10:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "12:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Cazadores de dinosaurios",
-        "hora": "13:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "14:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "14:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "15:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Wild Frank en México",
-        "hora": "16:42"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "17:34"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "18:26"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El tigre siberiano",
-        "hora": "19:18"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Tiburones caminantes de Nueva Guinea",
-        "hora": "20:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "21:02"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "21:54"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "22:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Un vínculo especial",
-        "hora": "22:46"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "23:38"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "00:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Cazadores de dinosaurios",
-        "hora": "01:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "02:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "03:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Un vínculo especial",
-        "hora": "03:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "04:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "05:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "06:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Cazadores de dinosaurios",
-        "hora": "07:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "08:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "09:00"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "09:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "10:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "El tigre siberiano",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "12:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "13:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Un vínculo especial",
-        "hora": "14:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "14:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "15:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "16:42"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Cazadores de dinosaurios",
-        "hora": "17:34"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "18:26"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Veterinarios de Texas",
-        "hora": "19:18"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "20:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "21:02"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "21:54"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales y famosos",
-        "hora": "22:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "22:46"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "23:38"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "00:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "The Dodo: en busca de héroes",
-        "hora": "01:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "02:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "03:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "03:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "04:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "05:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "The Dodo: en busca de héroes",
-        "hora": "06:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "07:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "08:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Mascotas revoltosas",
-        "hora": "09:00"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Criaturas misteriosas",
-        "hora": "09:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "10:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "12:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Los siete pecados animales",
-        "hora": "13:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "14:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "14:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "15:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "The Dodo: en busca de héroes",
-        "hora": "16:42"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dr. Jeff, veterinario",
-        "hora": "17:34"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pesca mortal",
-        "hora": "18:26"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Un vínculo especial",
-        "hora": "19:18"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "20:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "21:02"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pequeños gigantes de la naturaleza",
-        "hora": "21:54"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pequeños gigantes de la naturaleza",
-        "hora": "22:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "22:46"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Criaturas misteriosas",
-        "hora": "23:38"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "00:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "01:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "02:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Los siete pecados animales",
-        "hora": "03:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "03:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Criaturas misteriosas",
-        "hora": "04:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "05:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "06:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "07:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Los siete pecados animales",
-        "hora": "08:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Piscinas increíbles",
-        "hora": "09:00"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "09:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "10:40"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "12:22"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Animales en riesgo: Houston",
-        "hora": "13:14"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Crikey! It's the Irwins: Extra Bites",
-        "hora": "14:06"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Criaturas misteriosas",
-        "hora": "14:58"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "15:50"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Dra. Dee: veterinaria de Alaska",
-        "hora": "16:42"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Refugio en el granero",
-        "hora": "17:34"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Los siete pecados animales",
-        "hora": "18:26"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "19:18"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "20:10"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guardianes de Texas",
-        "hora": "21:02"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pequeños gigantes de la naturaleza",
-        "hora": "21:54"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Pequeños gigantes de la naturaleza",
-        "hora": "22:20"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Piscinas increíbles",
-        "hora": "22:46"
-    },
-    {
-        "canal": "ANIMALPLANET",
-        "evento": "Guaridas con estilo",
-        "hora": "23:38"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "19:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "20:32"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "21:26"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "21:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "23:19"
-    },
-    {
-        "canal": "ATRESERIES",
+        "canal": "Atreseries.ar",
         "evento": "Rock Story",
-        "hora": "00:25"
+        "hora_inicio": "17:37",
+        "hora_fin": "18:33",
+        "progreso": 63
     },
     {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "01:18"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Santuario",
-        "hora": "02:07"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "02:57"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "03:50"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "04:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Heridas",
-        "hora": "05:01"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Terror.app",
-        "hora": "06:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "06:58"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "09:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Gran Hotel",
-        "hora": "10:53"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "11:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "12:22"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "13:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "17:37"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Gran Hotel",
-        "hora": "18:33"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "19:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "20:37"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "21:25"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "21:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "23:20"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "00:27"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "01:20"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Acoso",
-        "hora": "02:10"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "02:51"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "03:50"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "04:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Santuario",
-        "hora": "05:01"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Terror.app",
-        "hora": "05:50"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "07:07"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "08:14"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "09:21"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "10:28"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "11:21"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Acoso",
-        "hora": "11:46"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "12:27"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "13:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "17:52"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Acoso",
-        "hora": "18:46"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "19:27"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "20:01"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "20:56"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "21:49"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "22:50"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "23:55"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "00:49"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Velvet",
-        "hora": "01:50"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "03:09"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "03:50"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "04:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Acoso",
-        "hora": "05:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Gente hablando",
-        "hora": "06:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Gente hablando",
-        "hora": "06:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Gente hablando",
-        "hora": "06:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "07:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "07:56"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "08:52"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "09:48"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "10:41"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Velvet",
-        "hora": "11:06"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Déjate ver",
-        "hora": "12:31"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "13:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "14:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "16:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Velvet",
-        "hora": "17:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "19:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "20:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "21:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "22:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "23:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "00:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Gran Hotel",
-        "hora": "02:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "03:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "04:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Déjate ver",
-        "hora": "05:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "06:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "09:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "11:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Allí abajo",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "13:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "14:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "16:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Allí abajo",
-        "hora": "17:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "19:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "20:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "21:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "22:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "23:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "00:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Déjate ver",
-        "hora": "02:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "03:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Sueños de libertad",
-        "hora": "04:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Velvet",
-        "hora": "05:15"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "06:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Esposa joven",
-        "hora": "09:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "11:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Déjate ver",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "13:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "14:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El síndrome de Ulises",
-        "hora": "17:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Rock Story",
-        "hora": "18:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "22:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Santuario",
-        "hora": "23:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Acoso",
-        "hora": "01:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Allí abajo",
-        "hora": "02:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Velvet",
-        "hora": "03:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "05:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Acoso",
-        "hora": "07:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Heridas",
-        "hora": "09:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Déjate ver",
-        "hora": "10:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Más de series",
-        "hora": "11:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Gran Hotel",
-        "hora": "11:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "13:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Pop Up: Aquí no hay quien viva",
-        "hora": "14:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El síndrome de Ulises",
-        "hora": "17:00"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Flor del Caribe",
-        "hora": "18:45"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "El secreto de Puente Viejo",
-        "hora": "22:30"
-    },
-    {
-        "canal": "ATRESERIES",
-        "evento": "Velvet",
-        "hora": "23:45"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "20:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "21:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "22:20"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "23:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "00:10"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Origins",
-        "hora": "01:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Wild Cards",
-        "hora": "02:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Wild Cards",
-        "hora": "02:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "03:49"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "04:44"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "05:35"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "06:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "07:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "08:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "09:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "13:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "14:50"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "15:45"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "16:39"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "17:34"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "18:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "19:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "20:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "21:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "22:20"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "23:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "00:10"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "01:04"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "02:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "02:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "03:49"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "04:44"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "05:35"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "06:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "07:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "08:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "09:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "13:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "14:50"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "15:45"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "16:39"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "17:34"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "18:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "19:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "20:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "21:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "22:20"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "23:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "00:10"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "01:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Sydney",
-        "hora": "01:59"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "02:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "03:49"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "04:44"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "05:35"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "06:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "07:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "08:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "09:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "13:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "14:50"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "15:45"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "16:39"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "17:34"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "18:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "19:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "20:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "21:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "22:20"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "23:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "00:10"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hudson & Rex",
-        "hora": "01:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "02:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "02:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "03:49"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "04:44"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "05:35"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "06:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "07:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "08:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "09:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "13:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: New Orleans",
-        "hora": "14:50"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "15:45"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "16:39"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "17:34"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "18:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "19:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "20:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "21:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "22:20"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "23:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "SWAT",
-        "hora": "00:10"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "01:04"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "01:59"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "02:54"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "03:49"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "04:44"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "05:35"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "06:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "07:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "08:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "09:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "9-1-1: Lone Star",
-        "hora": "13:54"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "14:50"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "15:45"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "16:40"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "17:35"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "18:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "19:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "20:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "21:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "22:20"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "23:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "00:10"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "01:04"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "01:59"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "02:54"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "03:49"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "04:44"
-    },
-    {
-        "canal": "AXN",
-        "evento": "Hawaii-Five-O",
-        "hora": "05:34"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: Miami",
-        "hora": "06:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "07:15"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "08:05"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "09:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "10:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "11:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "TeveCompras",
-        "hora": "12:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "CSI: NY",
-        "hora": "13:00"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "13:55"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "14:50"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS: Los Ángeles",
-        "hora": "15:45"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "16:40"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "17:35"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "18:30"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "19:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "20:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "21:25"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "22:20"
-    },
-    {
-        "canal": "AXN",
-        "evento": "NCIS",
-        "hora": "23:15"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "20:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Descubriendo con Vegibugs",
-        "hora": "20:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Juega y aprende con canciones y nanas",
-        "hora": "21:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Juegos de adivinanzas con Tulli y sus amigos",
-        "hora": "21:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "23:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Música clásica e historias relajantes",
-        "hora": "23:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "04:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "04:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Las melodías nocturnas de Baby TV",
-        "hora": "05:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "05:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Abrazos de buenas noches",
-        "hora": "06:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "06:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "07:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Sonidos relajantes",
-        "hora": "07:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Empieza tu día con los amigos de Baby TV",
-        "hora": "11:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Oliver descubre y otras historias",
-        "hora": "11:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Canciones y rimas",
-        "hora": "12:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "12:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "13:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "13:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "14:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Mowgli: la primera aventura",
-        "hora": "14:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La pequeña Lola visita la ciudad",
-        "hora": "15:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "15:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "16:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "16:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "17:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Canciones y rimas",
-        "hora": "17:30"
-    },
-    {
-        "canal": "BABYTV",
+        "canal": "BabyTV.ar",
         "evento": "Bug'n' Play al rescate",
-        "hora": "18:00"
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "18:30"
+        "canal": "Bloomberg.ar",
+        "evento": "Bloomberg Businessweek",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "19:00"
+        "canal": "C5N.ar",
+        "evento": "De una",
+        "hora_inicio": "16:00",
+        "hora_fin": "19:00",
+        "progreso": 73
     },
     {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "19:30"
+        "canal": "CN23.ar",
+        "evento": "CN 23",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "20:00"
+        "canal": "CNN.ar",
+        "evento": "Isa Soares Tonight",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Descubriendo con Vegibugs",
-        "hora": "20:30"
+        "canal": "CNNenEspanol.ar",
+        "evento": "Redacción con Nacho Girón",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Juega y aprende con canciones y nanas",
-        "hora": "21:00"
+        "canal": "Canal21.ar",
+        "evento": "Nuestra Misa",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "Juegos de adivinanzas con Tulli y sus amigos",
-        "hora": "21:30"
+        "canal": "Canal26.ar",
+        "evento": "La tarde",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:00"
+        "canal": "CanalDeLaCiudad.ar",
+        "evento": "Vamos las chicas",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:30"
+        "canal": "CanalDeLaMusica.ar",
+        "evento": "Código libre",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "23:00"
+        "canal": "CanalRural.ar",
+        "evento": "Patagonia sur sur",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "Música clásica e historias relajantes",
-        "hora": "23:30"
+        "canal": "CartoonNetwork.ar",
+        "evento": "Escandalosos",
+        "hora_inicio": "18:08",
+        "hora_fin": "18:22",
+        "progreso": 31
     },
     {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:00"
+        "canal": "CineAr.ar",
+        "evento": "Algunos días sin música",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:30"
+        "canal": "Cinecanal.ar",
+        "evento": "Volcán",
+        "hora_inicio": "17:25",
+        "hora_fin": "19:30",
+        "progreso": 37
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:00"
+        "canal": "Cinelatino.ar",
+        "evento": "Playball",
+        "hora_inicio": "17:15",
+        "hora_fin": "18:55",
+        "progreso": 57
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:30"
+        "canal": "Cinemax(Sur).ar",
+        "evento": "Minority Report: sentencia previa",
+        "hora_inicio": "15:41",
+        "hora_fin": "18:32",
+        "progreso": 88
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:00"
+        "canal": "Cinemax.ar",
+        "evento": "Jerry Maguire, amor y desafío",
+        "hora_inicio": "17:09",
+        "hora_fin": "19:38",
+        "progreso": 42
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:30"
+        "canal": "CiudadMagazine.ar",
+        "evento": "Tierra de pasiones",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:00"
+        "canal": "ComedyCentral.ar",
+        "evento": "Becker",
+        "hora_inicio": "18:05",
+        "hora_fin": "18:30",
+        "progreso": 29
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:30"
+        "canal": "ConexionEducativa.ar",
+        "evento": "Conexión educativa",
+        "hora_inicio": "18:00",
+        "hora_fin": "21:00",
+        "progreso": 6
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "04:00"
+        "canal": "ConstruirTV.ar",
+        "evento": "Iberoamérica en órbita",
+        "hora_inicio": "17:30",
+        "hora_fin": "18:30",
+        "progreso": 70
     },
     {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "04:30"
+        "canal": "CronicaTV.ar",
+        "evento": "Imbatibles",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "Las melodías nocturnas de Baby TV",
-        "hora": "05:00"
+        "canal": "Discovery.ar",
+        "evento": "Supervivencia al desnudo Brasil: la tribu",
+        "hora_inicio": "17:33",
+        "hora_fin": "18:44",
+        "progreso": 55
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "05:30"
+        "canal": "DiscoveryChannel.ar",
+        "evento": "Supervivencia al desnudo Brasil: la tribu",
+        "hora_inicio": "17:33",
+        "hora_fin": "18:44",
+        "progreso": 55
     },
     {
-        "canal": "BABYTV",
-        "evento": "Abrazos de buenas noches",
-        "hora": "06:00"
+        "canal": "DiscoveryHomeAndHealth.ar",
+        "evento": "Todo en 90 días: ¿Felices por siempre?",
+        "hora_inicio": "17:12",
+        "hora_fin": "18:44",
+        "progreso": 65
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "06:30"
+        "canal": "DiscoveryKids.ar",
+        "evento": "Academia Unicornio",
+        "hora_inicio": "18:10",
+        "hora_fin": "18:37",
+        "progreso": 8
     },
     {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "07:00"
+        "canal": "DiscoveryTurbo.ar",
+        "evento": "ADN mecánico",
+        "hora_inicio": "17:50",
+        "hora_fin": "18:42",
+        "progreso": 43
     },
     {
-        "canal": "BABYTV",
-        "evento": "Sonidos relajantes",
-        "hora": "07:30"
+        "canal": "DisneyChannel.ar",
+        "evento": "Soy Luna",
+        "hora_inicio": "17:57",
+        "hora_fin": "18:53",
+        "progreso": 27
     },
     {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:00"
+        "canal": "DisneyJunior.ar",
+        "evento": "Princesita Sofía",
+        "hora_inicio": "17:53",
+        "hora_fin": "18:20",
+        "progreso": 71
     },
     {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:30"
+        "canal": "ELNueve.ar",
+        "evento": "Los profesionales de siempre",
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:00"
+        "canal": "ELTrece.ar",
+        "evento": "La cocina rebelde",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:15",
+        "progreso": 40
     },
     {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:30"
+        "canal": "ESPN.ar",
+        "evento": "ESPN Mundial",
+        "hora_inicio": "18:00",
+        "hora_fin": "21:00",
+        "progreso": 6
     },
     {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:00"
+        "canal": "ESPN2.ar",
+        "evento": "Gran Premio de España, Carrera 1, Circuito de Barcelona-Cataluña",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:30"
+        "canal": "ESPN3.ar",
+        "evento": "Bélgica vs. Argentina",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:45",
+        "progreso": 11
     },
     {
-        "canal": "BABYTV",
-        "evento": "Empieza tu día con los amigos de Baby TV",
-        "hora": "11:00"
+        "canal": "ESPN4.ar",
+        "evento": "Final masculina",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Walter y Dude",
-        "hora": "11:30"
+        "canal": "ESPNExtra.ar",
+        "evento": "Top 14",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "Canciones y rimas",
-        "hora": "12:00"
+        "canal": "ESPNSur.ar",
+        "evento": "ESPN Mundial",
+        "hora_inicio": "15:00",
+        "hora_fin": "19:00",
+        "progreso": 80
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "12:30"
+        "canal": "ESPNSur2.ar",
+        "evento": "ESPN 2 Argentina",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "13:00"
+        "canal": "ESPNSur3.ar",
+        "evento": "ESPN Compact",
+        "hora_inicio": "17:30",
+        "hora_fin": "18:30",
+        "progreso": 70
     },
     {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "13:30"
+        "canal": "ESPNSur4.ar",
+        "evento": "ESPN Compact",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "14:00"
+        "canal": "EWTN.ar",
+        "evento": "La Coronilla de la Divina Misericordia cantada",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "Mowgli: la primera aventura",
-        "hora": "14:30"
+        "canal": "ElGarageTv.ar",
+        "evento": "Lo viejo funciona",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:30",
+        "progreso": 13
     },
     {
-        "canal": "BABYTV",
-        "evento": "La pequeña Lola visita la ciudad",
-        "hora": "15:00"
+        "canal": "ElGourmet.ar",
+        "evento": "La panadería dulce de Juan Manuel",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "15:30"
+        "canal": "Encuentro.ar",
+        "evento": "Caudillos",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "16:00"
+        "canal": "EuropaEuropa.ar",
+        "evento": "Mi Zoe, mi vida",
+        "hora_inicio": "16:40",
+        "hora_fin": "18:35",
+        "progreso": 80
     },
     {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "16:30"
+        "canal": "FOX Sports",
+        "evento": "Siga, siga",
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "17:00"
+        "canal": "FOXSports2.ar",
+        "evento": "Vilo (Arg) vs. Maringá (Bra)",
+        "hora_inicio": "16:45",
+        "hora_fin": "18:45",
+        "progreso": 72
     },
     {
-        "canal": "BABYTV",
-        "evento": "Mini matinee y otras historias",
-        "hora": "17:30"
+        "canal": "FOXSports3.ar",
+        "evento": "Red Bull Aconcagua: A New Chance",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Bug'n' Play al rescate",
-        "hora": "18:00"
+        "canal": "FOXSportsConoSur.ar",
+        "evento": "Siga, siga",
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "18:30"
+        "canal": "FX.ar",
+        "evento": "Snowden",
+        "hora_inicio": "17:53",
+        "hora_fin": "20:54",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "19:00"
+        "canal": "France24enEspanol.ar",
+        "evento": "Noticias",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:29",
+        "progreso": 42
     },
     {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "19:30"
+        "canal": "GaliciaTV.ar",
+        "evento": "Os mellores a voltas co prato",
+        "hora_inicio": "18:12",
+        "hora_fin": "19:00",
+        "progreso": 0
     },
     {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "20:00"
+        "canal": "Golden.ar",
+        "evento": "¿Qué voy a hacer con mi marido?",
+        "hora_inicio": "17:58",
+        "hora_fin": "19:47",
+        "progreso": 13
     },
     {
-        "canal": "BABYTV",
-        "evento": "Descubriendo con Vegibugs",
-        "hora": "20:30"
+        "canal": "GoldenEdge.ar",
+        "evento": "El agente Boon",
+        "hora_inicio": "18:05",
+        "hora_fin": "19:46",
+        "progreso": 7
     },
     {
-        "canal": "BABYTV",
-        "evento": "Juega y aprende con canciones y nanas",
-        "hora": "21:00"
+        "canal": "GolfChannel.ar",
+        "evento": "Live From the U.S. Open",
+        "hora_inicio": "13:00",
+        "hora_fin": "21:00",
+        "progreso": 65
     },
     {
-        "canal": "BABYTV",
-        "evento": "Juegos de adivinanzas con Tulli y sus amigos",
-        "hora": "21:30"
+        "canal": "HAPSATV.ar",
+        "evento": "Turf en vivo - Palermo, San Isidro y La Plata",
+        "hora_inicio": "15:00",
+        "hora_fin": "19:00",
+        "progreso": 80
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:00"
+        "canal": "HBO.ar",
+        "evento": "Sin dejar rastro",
+        "hora_inicio": "17:10",
+        "hora_fin": "18:50",
+        "progreso": 62
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:30"
+        "canal": "HBO2.ar",
+        "evento": "Mujer Maravilla 1984",
+        "hora_inicio": "17:12",
+        "hora_fin": "19:48",
+        "progreso": 38
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "23:00"
+        "canal": "HBOFamily.ar",
+        "evento": "Cómo entrenar a tu dragón 2",
+        "hora_inicio": "16:37",
+        "hora_fin": "18:22",
+        "progreso": 90
     },
     {
-        "canal": "BABYTV",
-        "evento": "Música clásica e historias relajantes",
-        "hora": "23:30"
+        "canal": "HBOMundi.ar",
+        "evento": "No nos dejes caer esta noche",
+        "hora_inicio": "17:35",
+        "hora_fin": "19:20",
+        "progreso": 35
     },
     {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:00"
+        "canal": "HBOOeste.ar",
+        "evento": "Harry Potter y las reliquias de la muerte: Parte 2",
+        "hora_inicio": "16:29",
+        "hora_fin": "18:47",
+        "progreso": 74
     },
     {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:30"
+        "canal": "HBOPlus(Panamericano).ar",
+        "evento": "No descansarás",
+        "hora_inicio": "17:20",
+        "hora_fin": "18:55",
+        "progreso": 55
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:00"
+        "canal": "HBOPlusEste.ar",
+        "evento": "No descansarás",
+        "hora_inicio": "17:20",
+        "hora_fin": "18:55",
+        "progreso": 55
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:30"
+        "canal": "HBOPop.ar",
+        "evento": "¡Sí, señor!",
+        "hora_inicio": "17:05",
+        "hora_fin": "18:54",
+        "progreso": 61
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:00"
+        "canal": "HBOSignature.ar",
+        "evento": "Adecuado",
+        "hora_inicio": "17:18",
+        "hora_fin": "18:47",
+        "progreso": 61
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:30"
+        "canal": "HBOXtreme(Panamericano).ar",
+        "evento": "Titanes del Pacífico",
+        "hora_inicio": "17:10",
+        "hora_fin": "19:24",
+        "progreso": 46
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:00"
+        "canal": "HBOXtreme.ar",
+        "evento": "Titanes del Pacífico",
+        "hora_inicio": "17:10",
+        "hora_fin": "19:24",
+        "progreso": 46
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:30"
+        "canal": "HGTV.ar",
+        "evento": "Mi casa en los suburbios",
+        "hora_inicio": "17:56",
+        "hora_fin": "18:43",
+        "progreso": 34
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "04:00"
+        "canal": "HTV.ar",
+        "evento": "HTV",
+        "hora_inicio": "17:00",
+        "hora_fin": "04:00",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "04:30"
+        "canal": "HispanTV.ar",
+        "evento": "Detrás de la razón",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "Las melodías nocturnas de Baby TV",
-        "hora": "05:00"
+        "canal": "History.ar",
+        "evento": "El secreto de Skinwalker",
+        "hora_inicio": "17:47",
+        "hora_fin": "18:31",
+        "progreso": 57
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "05:30"
+        "canal": "History2.ar",
+        "evento": "Constructores de imperios",
+        "hora_inicio": "17:31",
+        "hora_fin": "18:26",
+        "progreso": 75
     },
     {
-        "canal": "BABYTV",
-        "evento": "Abrazos de buenas noches",
-        "hora": "06:00"
+        "canal": "HolaTV.ar",
+        "evento": "Cenando con las estrellas",
+        "hora_inicio": "17:30",
+        "hora_fin": "18:30",
+        "progreso": 70
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "06:30"
+        "canal": "InvestigationDiscovery.ar",
+        "evento": "El misterio Wonderland",
+        "hora_inicio": "17:27",
+        "hora_fin": "18:14",
+        "progreso": 96
     },
     {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "07:00"
+        "canal": "LN+.ar",
+        "evento": "+Data a la tarde",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "Sonidos relajantes",
-        "hora": "07:30"
+        "canal": "LasEstrellas.ar",
+        "evento": "Hermanas, un amor compartido",
+        "hora_inicio": "17:30",
+        "hora_fin": "18:20",
+        "progreso": 84
     },
     {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:00"
+        "canal": "MTV.ar",
+        "evento": "Atrapados en el acto: Infieles",
+        "hora_inicio": "17:45",
+        "hora_fin": "18:30",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:30"
+        "canal": "MasChic.ar",
+        "evento": "Brockmire",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:25",
+        "progreso": 49
     },
     {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:00"
+        "canal": "Metro.ar",
+        "evento": "Espacio & Confort",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:30"
+        "canal": "Musictop.ar",
+        "evento": "MusicTop",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:00"
+        "canal": "NBATV.ar",
+        "evento": "NBA Finals - Game 5",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:30"
+        "canal": "NationalGeographic.ar",
+        "evento": "Mayday: catástrofes aéreas",
+        "hora_inicio": "17:51",
+        "hora_fin": "18:52",
+        "progreso": 35
     },
     {
-        "canal": "BABYTV",
-        "evento": "Empieza tu día con los amigos de Baby TV",
-        "hora": "11:00"
+        "canal": "NetTV.ar",
+        "evento": "Entrometidos",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:00",
+        "progreso": 47
     },
     {
-        "canal": "BABYTV",
-        "evento": "Oliver descubre y otras historias",
-        "hora": "11:30"
+        "canal": "NickJr..ar",
+        "evento": "Rubble y equipo",
+        "hora_inicio": "18:10",
+        "hora_fin": "18:30",
+        "progreso": 11
     },
     {
-        "canal": "BABYTV",
-        "evento": "La pequeña Lola visita la ciudad",
-        "hora": "12:00"
+        "canal": "Pakapaka.ar",
+        "evento": "Puerto papel",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "12:30"
+        "canal": "Pasiones.ar",
+        "evento": "Scorpion",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "13:00"
+        "canal": "PenthouseGold.ar",
+        "evento": "Big Ass Black Beauties 11",
+        "hora_inicio": "17:28",
+        "hora_fin": "19:25",
+        "progreso": 37
     },
     {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "13:30"
+        "canal": "Playboy.ar",
+        "evento": "Taxi Cab Stories",
+        "hora_inicio": "18:03",
+        "hora_fin": "18:27",
+        "progreso": 39
     },
     {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "14:00"
+        "canal": "Quiero.ar",
+        "evento": "Mi gente de Quiero",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Mona & Sketch y otras historias",
-        "hora": "14:30"
+        "canal": "RaiItalia.ar",
+        "evento": "TG1 + Cinque minuti",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "Giggle Wiggle",
-        "hora": "15:00"
+        "canal": "RussiaToday.ar",
+        "evento": "Noticias",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "15:30"
+        "canal": "Sony.ar",
+        "evento": "Casados con hijos",
+        "hora_inicio": "17:45",
+        "hora_fin": "18:30",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "16:00"
+        "canal": "Space.ar",
+        "evento": "Mad Max: Furia en el camino",
+        "hora_inicio": "16:17",
+        "hora_fin": "18:27",
+        "progreso": 88
     },
     {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "16:30"
+        "canal": "StarChannel.ar",
+        "evento": "Cuando ellas quieren",
+        "hora_inicio": "17:18",
+        "hora_fin": "19:22",
+        "progreso": 43
     },
     {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "17:00"
+        "canal": "StudioUniversal.ar",
+        "evento": "Kubo y la búsqueda samurái",
+        "hora_inicio": "16:30",
+        "hora_fin": "18:20",
+        "progreso": 93
     },
     {
-        "canal": "BABYTV",
-        "evento": "Canciones y rimas",
-        "hora": "17:30"
+        "canal": "TCM.ar",
+        "evento": "El abrazo partido",
+        "hora_inicio": "17:16",
+        "hora_fin": "19:03",
+        "progreso": 52
     },
     {
-        "canal": "BABYTV",
-        "evento": "Feliz cumpleaños a ti",
-        "hora": "18:00"
+        "canal": "TECtv.ar",
+        "evento": "TecTV",
+        "hora_inicio": "15:00",
+        "hora_fin": "19:00",
+        "progreso": 80
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "18:30"
+        "canal": "TLC.ar",
+        "evento": "Mi gran boda gitana",
+        "hora_inicio": "17:42",
+        "hora_fin": "18:29",
+        "progreso": 64
     },
     {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "19:00"
+        "canal": "TLNovelas.ar",
+        "evento": "Rosa salvaje",
+        "hora_inicio": "16:55",
+        "hora_fin": "18:30",
+        "progreso": 81
     },
     {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "19:30"
+        "canal": "TN.ar",
+        "evento": "Hablemos de esto",
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "20:00"
+        "canal": "TNT.ar",
+        "evento": "Rambo II",
+        "hora_inicio": "16:42",
+        "hora_fin": "18:26",
+        "progreso": 86
     },
     {
-        "canal": "BABYTV",
-        "evento": "Descubriendo con Vegibugs",
-        "hora": "20:30"
+        "canal": "TNTSeries.ar",
+        "evento": "CSI",
+        "hora_inicio": "17:33",
+        "hora_fin": "18:24",
+        "progreso": 77
     },
     {
-        "canal": "BABYTV",
-        "evento": "Juega y aprende con canciones y nanas",
-        "hora": "21:00"
+        "canal": "TV5.ar",
+        "evento": "Capitán Marleau",
+        "hora_inicio": "18:03",
+        "hora_fin": "20:00",
+        "progreso": 8
     },
     {
-        "canal": "BABYTV",
-        "evento": "Juegos de adivinanzas con Tulli y sus amigos",
-        "hora": "21:30"
+        "canal": "TVCiudad.ar",
+        "evento": "Ciudad viva",
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:00"
+        "canal": "TVE.ar",
+        "evento": "Malas lenguas",
+        "hora_inicio": "17:40",
+        "hora_fin": "18:25",
+        "progreso": 71
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:30"
+        "canal": "TVGlobo.ar",
+        "evento": "Além do tempo",
+        "hora_inicio": "17:45",
+        "hora_fin": "18:20",
+        "progreso": 78
     },
     {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "23:00"
+        "canal": "TVNCHILE.ar",
+        "evento": "24 horas al día",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "Música clásica e historias relajantes",
-        "hora": "23:30"
+        "canal": "TVNacionalUruguay.ar",
+        "evento": "Francia vs. Senegal",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:00"
+        "canal": "TVPublica.ar",
+        "evento": "Mediodía bien arriba",
+        "hora_inicio": "16:30",
+        "hora_fin": "18:30",
+        "progreso": 85
     },
     {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:30"
+        "canal": "Telediario.ar",
+        "evento": "La canción de tu vida",
+        "hora_inicio": "17:30",
+        "hora_fin": "18:30",
+        "progreso": 70
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:00"
+        "canal": "Telefe.ar",
+        "evento": "Cortá por Lozano",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:30",
+        "progreso": 35
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:30"
+        "canal": "TelefeCordoba.ar",
+        "evento": "Cortá por Lozano",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:30",
+        "progreso": 35
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:00"
+        "canal": "TelefeRosario.ar",
+        "evento": "Cortá por Lozano",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:30",
+        "progreso": 35
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:30"
+        "canal": "TelefeSantaFe.ar",
+        "evento": "Cortá por Lozano",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:45",
+        "progreso": 31
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:00"
+        "canal": "Telehit.ar",
+        "evento": "Qué News Telehit",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:30",
+        "progreso": 41
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:30"
+        "canal": "Telemax.ar",
+        "evento": "Resumen noticiero",
+        "hora_inicio": "18:00",
+        "hora_fin": "20:00",
+        "progreso": 10
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "04:00"
+        "canal": "TelevisionPublica.ar",
+        "evento": "Mediodía bien arriba",
+        "hora_inicio": "16:30",
+        "hora_fin": "18:30",
+        "progreso": 85
     },
     {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "04:30"
+        "canal": "TierraMiaTV.ar",
+        "evento": "TierraMia TV",
+        "hora_inicio": "18:00",
+        "hora_fin": "19:00",
+        "progreso": 20
     },
     {
-        "canal": "BABYTV",
-        "evento": "Las melodías nocturnas de Baby TV",
-        "hora": "05:00"
+        "canal": "Tooncast.ar",
+        "evento": "Los Picapiedra",
+        "hora_inicio": "17:56",
+        "hora_fin": "18:21",
+        "progreso": 65
     },
     {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "05:30"
+        "canal": "TurismoVisionArgentina.ar",
+        "evento": "Turismo Visión Argentina",
+        "hora_inicio": "18:00",
+        "hora_fin": "21:00",
+        "progreso": 6
     },
     {
-        "canal": "BABYTV",
-        "evento": "Abrazos de buenas noches",
-        "hora": "06:00"
+        "canal": "TyCSports.ar",
+        "evento": "La previa del debut de Argentina",
+        "hora_inicio": "17:00",
+        "hora_fin": "21:45",
+        "progreso": 25
     },
     {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "06:30"
+        "canal": "TyCSports2.ar",
+        "evento": "TyC Sports 2",
+        "hora_inicio": "15:00",
+        "hora_fin": "03:00",
+        "progreso": 26
     },
     {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "07:00"
+        "canal": "UniversalTV.ar",
+        "evento": "Policías de Chicago",
+        "hora_inicio": "18:10",
+        "hora_fin": "19:00",
+        "progreso": 4
     },
     {
-        "canal": "BABYTV",
-        "evento": "Sonidos relajantes",
-        "hora": "07:30"
+        "canal": "UruguayNaturalTV.ar",
+        "evento": "Uruguay Natural TV",
+        "hora_inicio": "15:00",
+        "hora_fin": "19:00",
+        "progreso": 80
     },
     {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:00"
+        "canal": "VTV.ar",
+        "evento": "Buscadores",
+        "hora_inicio": "17:00",
+        "hora_fin": "19:00",
+        "progreso": 60
     },
     {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:30"
+        "canal": "Venus.ar",
+        "evento": "1 masaje con final en orgía",
+        "hora_inicio": "17:51",
+        "hora_fin": "19:20",
+        "progreso": 24
     },
     {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:00"
+        "canal": "Volver.ar",
+        "evento": "La colimba no es la guerra",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:00",
+        "progreso": 47
     },
     {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:30"
+        "canal": "WarnerChannel.ar",
+        "evento": "Luna nueva",
+        "hora_inicio": "18:06",
+        "hora_fin": "20:31",
+        "progreso": 4
     },
     {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:00"
+        "canal": "ZooMoo.ar",
+        "evento": "Leo, el explorador",
+        "hora_inicio": "18:00",
+        "hora_fin": "18:15",
+        "progreso": 82
     },
     {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:30"
+        "canal": "filmAndarts.ar",
+        "evento": "Vera",
+        "hora_inicio": "17:30",
+        "hora_fin": "19:15",
+        "progreso": 40
     },
     {
-        "canal": "BABYTV",
-        "evento": "Empieza tu día con los amigos de Baby TV",
-        "hora": "11:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Walter y Dude",
-        "hora": "11:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Charlie y los números",
-        "hora": "12:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "12:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "13:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "13:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "14:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Mowgli: la primera aventura",
-        "hora": "14:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Giggle Wiggle",
-        "hora": "15:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "15:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "16:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "16:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "17:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Beep Beep y otras historias",
-        "hora": "17:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Feliz cumpleaños a ti",
-        "hora": "18:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "18:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "19:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "19:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "20:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Descubriendo con Vegibugs",
-        "hora": "20:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Juega y aprende con canciones y nanas",
-        "hora": "21:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Juegos de adivinanzas con Tulli y sus amigos",
-        "hora": "21:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "23:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Música clásica e historias relajantes",
-        "hora": "23:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "04:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "04:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Las melodías nocturnas de Baby TV",
-        "hora": "05:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "05:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Abrazos de buenas noches",
-        "hora": "06:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "06:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "07:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Sonidos relajantes",
-        "hora": "07:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Amanence y brilla con los amigos de BabyTV",
-        "hora": "09:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El momento de los buenos días",
-        "hora": "10:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Empieza tu día con los amigos de Baby TV",
-        "hora": "11:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Oliver descubre y otras historias",
-        "hora": "11:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Charlie y los números",
-        "hora": "12:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "12:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "13:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "13:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "14:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Mona & Sketch y otras historias",
-        "hora": "14:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Giggle Wiggle",
-        "hora": "15:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "15:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "16:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "16:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "17:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Beep Beep y otras historias",
-        "hora": "17:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Feliz cumpleaños a ti",
-        "hora": "18:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "18:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Los primeros descubrimientos mágicos",
-        "hora": "19:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "El patio de la imaginación",
-        "hora": "19:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Explorando con BabyHood",
-        "hora": "20:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Descubriendo con Vegibugs",
-        "hora": "20:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Juega y aprende con canciones y nanas",
-        "hora": "21:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Juegos de adivinanzas con Tulli y sus amigos",
-        "hora": "21:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora": "22:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La hora del arte, la actividad y la música",
-        "hora": "23:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Música clásica e historias relajantes",
-        "hora": "23:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Cálmate y relájate",
-        "hora": "00:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "01:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "02:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "03:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "04:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "04:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Las melodías nocturnas de Baby TV",
-        "hora": "05:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Dulces sueños",
-        "hora": "05:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Abrazos de buenas noches",
-        "hora": "06:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Noches de ensueño",
-        "hora": "06:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "La luna y las estrellas",
-        "hora": "07:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "Sonidos relajantes",
-        "hora": "07:30"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:00"
-    },
-    {
-        "canal": "BABYTV",
-        "evento": "De la noche al día",
-        "hora": "08:30"
+        "canal": "teleSUR.ar",
+        "evento": "Guía tu cuerpo",
+        "hora_inicio": "18:10",
+        "hora_fin": "18:30",
+        "progreso": 11
     }
 ]
