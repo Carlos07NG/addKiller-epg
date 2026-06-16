@@ -3,49 +3,52 @@ import gzip
 import json
 import io
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+
 
 def generar_guia_json():
     url = "https://iptv-epg.org/files/epg-ar.xml.gz"
 
-    print("Descargando EPG comprimido desde GitHub Actions...")
+    print("Descargando EPG...")
 
-    headers = {
-        "User-Agent": "Tivimate/4.7.0"
-    }
+    response = requests.get(url, timeout=180)
+    response.raise_for_status()
 
-    try:
-        response = requests.get(
-            url,
-            headers=headers,
-            timeout=120
-        )
+    with gzip.GzipFile(fileobj=io.BytesIO(response.content)) as gz:
+        xml_content = gz.read()
 
-        if response.status_code != 200:
-            print(f"Error de servidor: {response.status_code}")
-            return
+    print("Procesando XML...")
 
-        print("Descomprimiendo GZIP en memoria...")
+    root = ET.fromstring(xml_content)
 
-        with gzip.GzipFile(
-            fileobj=io.BytesIO(response.content)
-        ) as gz:
-            xml_content = gz.read()
+    programas = root.findall("programme")
 
-        print("Parseando XML...")
+    ahora = datetime.now(timezone.utc)
 
-        root = ET.fromstring(xml_content)
+    eventos_actuales = []
 
-        programas = root.findall("programme")
-
-        print(f"Programas encontrados en XML: {len(programas)}")
-
-        todos_los_eventos = []
-
-        for prog in programas:
-
+    for prog in programas:
+        try:
+            inicio = prog.get("start", "")
+            fin = prog.get("stop", "")
             canal = prog.get("channel", "")
 
-            inicio = prog.get("start", "")
+            if not inicio or not fin:
+                continue
+
+            dt_inicio = datetime.strptime(
+                inicio[:14],
+                "%Y%m%d%H%M%S"
+            ).replace(tzinfo=timezone.utc)
+
+            dt_fin = datetime.strptime(
+                fin[:14],
+                "%Y%m%d%H%M%S"
+            ).replace(tzinfo=timezone.utc)
+
+            # Solo programas en emisión ahora
+            if not (dt_inicio <= ahora <= dt_fin):
+                continue
 
             title = prog.find("title")
 
@@ -54,41 +57,48 @@ def generar_guia_json():
 
             titulo = (title.text or "").strip()
 
-            hora = "--:--"
+            duracion_total = (dt_fin - dt_inicio).total_seconds()
 
-            if len(inicio) >= 12:
-                hora = f"{inicio[8:10]}:{inicio[10:12]}"
+            progreso = 0
 
-            canal_corto = canal.split(".")[0].upper()
+            if duracion_total > 0:
+                progreso = int(
+                    ((ahora - dt_inicio).total_seconds() /
+                     duracion_total) * 100
+                )
 
-            todos_los_eventos.append({
-                "canal": canal_corto,
+            progreso = max(0, min(100, progreso))
+
+            eventos_actuales.append({
+                "canal": canal,
                 "evento": titulo,
-                "hora": hora
+                "hora_inicio": dt_inicio.strftime("%H:%M"),
+                "hora_fin": dt_fin.strftime("%H:%M"),
+                "progreso": progreso
             })
 
-            # límite para que el JSON no sea enorme
-            if len(todos_los_eventos) >= 1000:
-                break
+        except Exception:
+            continue
 
-        print(f"Se guardarán {len(todos_los_eventos)} eventos")
+    eventos_actuales.sort(key=lambda x: x["canal"])
 
-        with open(
-            "guia_deportes.json",
-            "w",
-            encoding="utf-8"
-        ) as archivo:
-            json.dump(
-                todos_los_eventos,
-                archivo,
-                ensure_ascii=False,
-                indent=4
-            )
+    with open(
+        "guia_deportes.json",
+        "w",
+        encoding="utf-8"
+    ) as archivo:
+        json.dump(
+            eventos_actuales,
+            archivo,
+            ensure_ascii=False,
+            indent=4
+        )
 
-        print("¡JSON generado con éxito!")
+    print(
+        f"Programas en emisión encontrados: "
+        f"{len(eventos_actuales)}"
+    )
 
-    except Exception as e:
-        print(f"Error en el proceso: {e}")
 
 if __name__ == "__main__":
     generar_guia_json()
