@@ -1,67 +1,58 @@
 import requests
+import gzip
 import json
 import re
+import io
 
 def generar_guia_json():
-    url = "https://www.free-epg.de/api/epg?country=AR"
-    print("Descargando EPG desde free-epg.de...")
+    url = "https://iptv-epg.org/files/epg-ar.xml.gz"
+    print("Descargando EPG comprimido desde GitHub Actions...")
     
-    # 🎭 Aquí está el truco: Simulamos ser la app de IPTV "Tivimate"
-    headers = {
-        "User-Agent": "Tivimate/4.7.0",
-        "Accept": "*/*"
-    }
+    headers = {"User-Agent": "Tivimate/4.7.0"}
     
     try:
-        # Hacemos la petición disfrazados
-        response = requests.get(url, headers=headers, timeout=30)
-        contenido = response.text
-        
-        if len(contenido) < 500:
-            print("El servidor devolvió muy pocos datos. Podría seguir bloqueado.")
+        response = requests.get(url, headers=headers, timeout=60)
+        # Corregido: se usa status_code en lugar de statusCode
+        if response.status_code != 200:
+            print(f"Error de servidor: {response.status_code}")
             return
-            
-        print(f"Descarga exitosa. Tamaño: {len(contenido)} caracteres.")
-        
-        # Desarmamos el XML separando cada programa en bloques
-        bloques = contenido.split('<programme')
-        todos_los_eventos = []
-        
-        for bloque in bloques[1:]:
-            try:
-                # Buscamos la hora, canal y título dentro del bloque
-                start_match = re.search(r'start="([^"]+)"', bloque)
-                channel_match = re.search(r'channel="([^"]+)"', bloque)
-                title_match = re.search(r'<title[^>]*>(.*?)</title>', bloque, re.DOTALL)
-                
-                if start_match and channel_match and title_match:
-                    start_raw = start_match.group(1)
-                    canal = channel_match.group(1)
-                    titulo = title_match.group(1)
-                    
-                    # Limpiamos textos extraños del XML
-                    titulo_limpio = titulo.replace('<![CDATA[', '').replace(']]>', '').strip()
-                    canal_corto = canal.split('.')[0].upper()
-                    
-                    # Transformamos el formato largo de hora (20240305140000) a algo legible (14:00)
-                    hora = f"{start_raw[8:10]}:{start_raw[10:12]}" if len(start_raw) >= 12 else "--:--"
-                        
-                    todos_los_eventos.append({
-                        "canal": canal_corto,
-                        "evento": titulo_limpio,
-                        "hora": hora
-                    })
-                    
-                    # Límite para que tu app de Flutter cargue velozmente
-                    if len(todos_los_eventos) >= 60:
-                        break
-            except Exception:
-                continue
 
+        print("Descomprimiendo GZIP en la nube...")
+        # Descomprimimos el archivo directamente en la memoria del servidor de GitHub
+        with gzip.GzipFile(fileobj=io.BytesIO(response.content)) as f:
+            xml_content = f.read().decode('utf-8')
+        
+        print("Procesando XML con Regex...")
+        patron = re.compile(r'<programme\s+channel="([^"]+)".*?>.*?<title[^>]*>(.*?)</title>.*?start="([^"]+)"', re.DOTALL)
+        matches = patron.findall(xml_content)
+        
+        todos_los_eventos = []
+        print(f"Se encontraron {len(matches)} programas.")
+        
+        for match in matches:
+            canal, titulo, start = match
+            
+            # Formateamos la hora de YYYYMMDDHHMMSS a HH:MM
+            hora = f"{start[8:10]}:{start[10:12]}" if len(start) >= 12 else "--:--"
+            titulo_limpio = titulo.replace('<![CDATA[', '').replace(']]>', '').strip()
+            canal_corto = canal.split('.')[0].upper()
+            
+            todos_los_eventos.append({
+                "canal": canal_corto,
+                "evento": titulo_limpio,
+                "hora": hora
+            })
+            
+            # Dejamos un límite alto (ej: 1000) para tener casi todos los canales 
+            # pero asegurando que la app siga abriendo de forma instantánea.
+            if len(todos_los_eventos) >= 1000: 
+                break
+
+        # Guardamos el JSON final en el repositorio
         with open('guia_deportes.json', 'w', encoding='utf-8') as f:
             json.dump(todos_los_eventos, f, ensure_ascii=False, indent=4)
             
-        print(f"¡Éxito! Se guardaron {len(todos_los_eventos)} programas en tu JSON.")
+        print("¡JSON generado con éxito en el repositorio!")
 
     except Exception as e:
         print(f"Error en el proceso: {e}")
