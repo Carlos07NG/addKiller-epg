@@ -3,7 +3,10 @@ import gzip
 import json
 import io
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
+# Zona horaria Argentina
+ARG_TZ = timezone(timedelta(hours=-3))
 
 
 def generar_guia_json():
@@ -23,7 +26,7 @@ def generar_guia_json():
 
     programas = root.findall("programme")
 
-    ahora = datetime.now(timezone.utc)
+    ahora_utc = datetime.now(timezone.utc)
 
     eventos_actuales = []
 
@@ -47,7 +50,7 @@ def generar_guia_json():
             ).replace(tzinfo=timezone.utc)
 
             # Solo programas en emisión ahora
-            if not (dt_inicio <= ahora <= dt_fin):
+            if not (dt_inicio <= ahora_utc <= dt_fin):
                 continue
 
             title = prog.find("title")
@@ -57,14 +60,19 @@ def generar_guia_json():
 
             titulo = (title.text or "").strip()
 
+            # Convertir a hora Argentina
+            dt_inicio_local = dt_inicio.astimezone(ARG_TZ)
+            dt_fin_local = dt_fin.astimezone(ARG_TZ)
+
+            # Calcular progreso
             duracion_total = (dt_fin - dt_inicio).total_seconds()
 
             progreso = 0
 
             if duracion_total > 0:
                 progreso = int(
-                    ((ahora - dt_inicio).total_seconds() /
-                     duracion_total) * 100
+                    ((ahora_utc - dt_inicio).total_seconds()
+                     / duracion_total) * 100
                 )
 
             progreso = max(0, min(100, progreso))
@@ -72,15 +80,16 @@ def generar_guia_json():
             eventos_actuales.append({
                 "canal": canal,
                 "evento": titulo,
-                "hora_inicio": dt_inicio.strftime("%H:%M"),
-                "hora_fin": dt_fin.strftime("%H:%M"),
+                "hora_inicio": dt_inicio_local.strftime("%H:%M"),
+                "hora_fin": dt_fin_local.strftime("%H:%M"),
                 "progreso": progreso
             })
 
-        except Exception:
+        except Exception as e:
+            print(f"Error: {e}")
             continue
 
-    eventos_actuales.sort(key=lambda x: x["canal"])
+    eventos_actuales.sort(key=lambda x: x["canal"].lower())
 
     with open(
         "guia_deportes.json",
@@ -94,10 +103,7 @@ def generar_guia_json():
             indent=4
         )
 
-    print(
-        f"Programas en emisión encontrados: "
-        f"{len(eventos_actuales)}"
-    )
+    print(f"Programas en emisión encontrados: {len(eventos_actuales)}")
 
 
 if __name__ == "__main__":
