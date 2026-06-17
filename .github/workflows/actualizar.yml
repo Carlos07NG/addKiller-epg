@@ -2,7 +2,7 @@ name: Actualizar Guia Deportiva
 
 on:
   schedule:
-    # Se ejecuta todos los días a las 9:00 AM UTC
+    # Se debe ejecutar todos los días cada 10 minutos
      - cron: '*/10 * * * *'
   workflow_dispatch: 
 
