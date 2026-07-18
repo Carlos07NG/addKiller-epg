@@ -1,1283 +1,1283 @@
 [
     {
         "canal": "24/7CanaldeNoticias.ar",
-        "evento": "Contenido variado",
-        "hora_inicio": "13:00",
-        "hora_fin": "20:00",
-        "progreso": 86
+        "evento": "Los vencedores del tiempo",
+        "hora_inicio": "20:00",
+        "hora_fin": "00:00",
+        "progreso": 1
     },
     {
         "canal": "A24.ar",
-        "evento": "El diario de la tarde",
-        "hora_inicio": "16:00",
-        "hora_fin": "19:30",
-        "progreso": 86
+        "evento": "Indignados",
+        "hora_inicio": "19:30",
+        "hora_fin": "23:00",
+        "progreso": 15
     },
     {
         "canal": "AandE.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "AMC.ar",
-        "evento": "Tomb Raider: Las aventuras de Lara Croft",
-        "hora_inicio": "17:50",
-        "hora_fin": "19:55",
-        "progreso": 57
-    },
-    {
-        "canal": "AmericaSports.ar",
-        "evento": "Amucan",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
+        "evento": "Golpe bajo: el juego final",
+        "hora_inicio": "19:55",
+        "hora_fin": "22:00",
         "progreso": 6
     },
     {
+        "canal": "AmericaSports.ar",
+        "evento": "Terruños entrerrianos",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
+    },
+    {
         "canal": "AmericaTV.ar",
-        "evento": "Pasión de sábado",
-        "hora_inicio": "13:00",
-        "hora_fin": "19:50",
-        "progreso": 88
+        "evento": "Secretos verdaderos",
+        "hora_inicio": "19:50",
+        "hora_fin": "22:00",
+        "progreso": 9
     },
     {
         "canal": "AnimalPlanet.ar",
-        "evento": "Los Irwin",
-        "hora_inicio": "18:21",
-        "hora_fin": "19:16",
-        "progreso": 74
+        "evento": "Mi manada y yo",
+        "hora_inicio": "19:44",
+        "hora_fin": "20:11",
+        "progreso": 69
     },
     {
         "canal": "ArgentinisimaSatelital.ar",
         "evento": "Argentinisima satelital",
         "hora_inicio": "18:00",
         "hora_fin": "21:00",
-        "progreso": 34
+        "progreso": 68
     },
     {
         "canal": "Atreseries.ar",
-        "evento": "Rock Story",
-        "hora_inicio": "18:42",
-        "hora_fin": "19:33",
-        "progreso": 39
+        "evento": "El secreto de Puente Viejo",
+        "hora_inicio": "19:33",
+        "hora_fin": "20:37",
+        "progreso": 46
     },
     {
         "canal": "AXN.ar",
         "evento": "NCIS",
-        "hora_inicio": "18:25",
-        "hora_fin": "19:20",
-        "progreso": 67
+        "hora_inicio": "19:20",
+        "hora_fin": "20:15",
+        "progreso": 77
     },
     {
         "canal": "BabyTV.ar",
-        "evento": "La hora de la diversión y las nanas en familia",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "La hora del arte, la actividad y la música",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "Bloomberg.ar",
-        "evento": "The Mishal Husain Show",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "The Deal",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "C5N.ar",
-        "evento": "La voz de la calle",
-        "hora_inicio": "17:00",
-        "hora_fin": "20:00",
-        "progreso": 67
+        "evento": "Especial Mundial",
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "progreso": 2
     },
     {
         "canal": "Canal21.ar",
-        "evento": "Lo mejor de Poliedro",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "Nuestra Misa",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Canal26.ar",
-        "evento": "26 Historia",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "Resumen - 26 global",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "CanalDeLaCiudad.ar",
-        "evento": "BA emergencias",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "Siempre a tiempo",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "CanalDeLaMusica.ar",
         "evento": "Mood Weekend",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "CanalRural.ar",
-        "evento": "Terra Chaco",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "Campo abierto",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "Cartoonito.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "CartoonNetwork.ar",
         "evento": "Los Jóvenes Titanes en acción",
-        "hora_inicio": "19:01",
-        "hora_fin": "19:12",
-        "progreso": 9
+        "hora_inicio": "19:54",
+        "hora_fin": "20:05",
+        "progreso": 80
     },
     {
         "canal": "CineAr.ar",
-        "evento": "Entre reinas",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "El secreto de Maró",
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "progreso": 2
     },
     {
         "canal": "Cinecanal.ar",
-        "evento": "El llamado salvaje",
-        "hora_inicio": "17:26",
-        "hora_fin": "19:32",
-        "progreso": 76
+        "evento": "Talentos ocultos",
+        "hora_inicio": "19:32",
+        "hora_fin": "22:00",
+        "progreso": 20
     },
     {
         "canal": "Cinelatino.ar",
-        "evento": "No más muertes en la frontera",
-        "hora_inicio": "17:50",
-        "hora_fin": "19:30",
-        "progreso": 72
+        "evento": "Por una mujer casada",
+        "hora_inicio": "19:30",
+        "hora_fin": "21:05",
+        "progreso": 34
     },
     {
         "canal": "Cinemax(Sur).ar",
-        "evento": "El rascacielos",
-        "hora_inicio": "17:44",
-        "hora_fin": "19:36",
-        "progreso": 69
+        "evento": "Black Adam",
+        "hora_inicio": "19:36",
+        "hora_fin": "22:00",
+        "progreso": 18
     },
     {
         "canal": "Cinemax.ar",
         "evento": "Van Helsing, cazador de monstruos",
         "hora_inicio": "18:56",
         "hora_fin": "21:14",
-        "progreso": 4
+        "progreso": 48
     },
     {
         "canal": "CiudadMagazine.ar",
-        "evento": "Terminator: La salvación",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "Sabotage",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:45",
+        "progreso": 2
     },
     {
         "canal": "CN23.ar",
         "evento": "CN 23",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "CNN.ar",
         "evento": "North America 2026",
         "hora_inicio": "19:00",
         "hora_fin": "22:00",
-        "progreso": 1
+        "progreso": 34
     },
     {
         "canal": "CNNenEspanol.ar",
-        "evento": "Mirador mundial",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "Globo economía",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "ComedyCentral.ar",
-        "evento": "Becker",
-        "hora_inicio": "18:50",
-        "hora_fin": "19:10",
-        "progreso": 60
+        "evento": "Spin City: Loca alcaldía",
+        "hora_inicio": "19:55",
+        "hora_fin": "20:20",
+        "progreso": 31
     },
     {
         "canal": "ConexionEducativa.ar",
         "evento": "Conexión educativa",
         "hora_inicio": "18:00",
         "hora_fin": "21:00",
-        "progreso": 34
+        "progreso": 68
     },
     {
         "canal": "ConstruirTV.ar",
-        "evento": "Construir TV Infantil",
-        "hora_inicio": "18:30",
-        "hora_fin": "19:30",
-        "progreso": 53
+        "evento": "México biocultural",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "CronicaTV.ar",
-        "evento": "Crónica Noticias sábado",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "Intensos, con Tomás Dente",
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "progreso": 2
     },
     {
         "canal": "Discovery.ar",
         "evento": "Supervivencia al desnudo: el último en pie",
         "hora_inicio": "18:40",
         "hora_fin": "20:20",
-        "progreso": 22
+        "progreso": 82
     },
     {
         "canal": "DiscoveryChannel.ar",
         "evento": "Supervivencia al desnudo: el último en pie",
         "hora_inicio": "18:40",
         "hora_fin": "20:20",
-        "progreso": 22
+        "progreso": 82
     },
     {
         "canal": "DiscoveryHomeAndHealth.ar",
-        "evento": "Yes, Chef!",
-        "hora_inicio": "18:34",
-        "hora_fin": "19:20",
-        "progreso": 61
+        "evento": "Un chef de otro nivel",
+        "hora_inicio": "19:20",
+        "hora_fin": "20:06",
+        "progreso": 93
     },
     {
         "canal": "DiscoveryKids.ar",
-        "evento": "Tres espías sin límite",
-        "hora_inicio": "18:57",
-        "hora_fin": "19:21",
-        "progreso": 21
+        "evento": "Peppa Pig",
+        "hora_inicio": "20:01",
+        "hora_fin": "20:26",
+        "progreso": 7
     },
     {
         "canal": "DiscoveryTurbo.ar",
-        "evento": "Invasión de garajes",
-        "hora_inicio": "18:36",
-        "hora_fin": "19:29",
-        "progreso": 49
+        "evento": "Superautos con Robert Downey",
+        "hora_inicio": "19:29",
+        "hora_fin": "20:29",
+        "progreso": 56
     },
     {
         "canal": "DisneyChannel.ar",
-        "evento": "Descendientes 2",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "Up: una aventura de altura",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:37",
+        "progreso": 2
     },
     {
         "canal": "DisneyJunior.ar",
         "evento": "Bluey",
-        "hora_inicio": "19:01",
-        "hora_fin": "19:09",
-        "progreso": 13
+        "hora_inicio": "19:59",
+        "hora_fin": "20:07",
+        "progreso": 48
     },
     {
         "canal": "DisneyXD.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Dreamworks.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "E!.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "ElGarageTv.ar",
-        "evento": "El reverendo, confesiones sobre ruedas",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "El ángel copiloto",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "ElGourmet.ar",
-        "evento": "Los Petersen en Chile",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "Me voy a comer el mundo",
+        "hora_inicio": "19:30",
+        "hora_fin": "20:30",
+        "progreso": 54
     },
     {
         "canal": "ELNueve.ar",
-        "evento": "Implacables",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "Con estilo",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "ELTrece.ar",
-        "evento": "A confirmar",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "La noche de Mirtha",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:30",
+        "progreso": 3
     },
     {
         "canal": "Encuentro.ar",
-        "evento": "Al ras del cielo",
-        "hora_inicio": "18:30",
-        "hora_fin": "20:00",
-        "progreso": 35
+        "evento": "El loco de los huesos",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "ESPN.ar",
         "evento": "ESPN Mundial",
-        "hora_inicio": "17:00",
-        "hora_fin": "20:00",
-        "progreso": 67
+        "hora_inicio": "20:00",
+        "hora_fin": "02:00",
+        "progreso": 0
     },
     {
         "canal": "ESPN2.ar",
         "evento": "SportsCenter",
         "hora_inicio": "18:10",
         "hora_fin": "21:00",
-        "progreso": 30
+        "progreso": 66
     },
     {
         "canal": "ESPN3.ar",
-        "evento": "ATP Tour Uncovered",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "Japón vs. Francia",
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "progreso": 2
     },
     {
         "canal": "ESPN4.ar",
-        "evento": "Japón vs. Francia",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "Resumen de la temporada",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "ESPNExtra.ar",
         "evento": "Wimbledon",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "hora_inicio": "20:00",
+        "hora_fin": "23:00",
+        "progreso": 1
     },
     {
         "canal": "ESPNSur.ar",
         "evento": "ESPN Mundial",
         "hora_inicio": "18:00",
         "hora_fin": "21:00",
-        "progreso": 34
+        "progreso": 68
     },
     {
         "canal": "ESPNSur2.ar",
-        "evento": "Nations Championship 2026",
-        "hora_inicio": "16:30",
-        "hora_fin": "19:10",
-        "progreso": 95
+        "evento": "SportsCenter",
+        "hora_inicio": "19:10",
+        "hora_fin": "22:00",
+        "progreso": 31
     },
     {
         "canal": "ESPNSur3.ar",
-        "evento": "UEFA Champions League Weekly",
-        "hora_inicio": "18:30",
-        "hora_fin": "19:30",
-        "progreso": 53
+        "evento": "ATP Tour Uncovered",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "ESPNSur4.ar",
         "evento": "Nations Championship 2026",
         "hora_inicio": "19:00",
         "hora_fin": "21:00",
-        "progreso": 1
+        "progreso": 52
     },
     {
         "canal": "EuropaEuropa.ar",
-        "evento": "Las cosas del amor",
-        "hora_inicio": "18:05",
-        "hora_fin": "20:00",
-        "progreso": 49
+        "evento": "Charité",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "EWTN.ar",
-        "evento": "Explora con el cazador de milagros",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "Bienaventuradas - Las mártires de Compiegne",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "filmAndarts.ar",
         "evento": "Vera",
         "hora_inicio": "18:20",
         "hora_fin": "20:05",
-        "progreso": 40
+        "progreso": 97
     },
     {
         "canal": "FOX Sports",
         "evento": "Gran Premio de Bélgica, Circuito de Spa-Francorchamps",
         "hora_inicio": "19:00",
         "hora_fin": "20:30",
-        "progreso": 2
+        "progreso": 69
     },
     {
         "canal": "FOXSports2.ar",
-        "evento": "Partido 2, Semifinal - Ida",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "Moving",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "FOXSports3.ar",
-        "evento": "Texas Rangers vs. Atlanta Braves",
-        "hora_inicio": "17:00",
-        "hora_fin": "20:00",
-        "progreso": 67
+        "evento": "Marketing Registrado Mundial",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "FOXSportsConoSur.ar",
         "evento": "Gran Premio de Bélgica, Circuito de Spa-Francorchamps",
         "hora_inicio": "19:00",
         "hora_fin": "20:30",
-        "progreso": 2
+        "progreso": 69
     },
     {
         "canal": "France24enEspanol.ar",
         "evento": "Noticias",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:15",
-        "progreso": 13
+        "hora_inicio": "20:00",
+        "hora_fin": "20:10",
+        "progreso": 28
     },
     {
         "canal": "FX.ar",
         "evento": "Armagedón",
         "hora_inicio": "18:38",
         "hora_fin": "21:47",
-        "progreso": 12
+        "progreso": 44
     },
     {
         "canal": "FXMovies.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "GaliciaTV.ar",
         "evento": "Domar o vento",
         "hora_inicio": "18:57",
         "hora_fin": "20:30",
-        "progreso": 5
+        "progreso": 70
     },
     {
         "canal": "Glitz.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Golden.ar",
         "evento": "Ligeramente embarazada",
         "hora_inicio": "18:40",
         "hora_fin": "21:03",
-        "progreso": 15
+        "progreso": 57
     },
     {
         "canal": "GoldenEdge.ar",
         "evento": "Karate Kid",
         "hora_inicio": "18:45",
         "hora_fin": "21:15",
-        "progreso": 11
+        "progreso": 51
     },
     {
         "canal": "GolfChannel.ar",
         "evento": "Round 3",
         "hora_inicio": "13:00",
         "hora_fin": "23:00",
-        "progreso": 60
+        "progreso": 70
     },
     {
         "canal": "GolTV.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "HAPSATV.ar",
         "evento": "Turf en vivo - Palermo, San Isidro y La Plata",
-        "hora_inicio": "16:00",
-        "hora_fin": "20:00",
-        "progreso": 75
+        "hora_inicio": "20:00",
+        "hora_fin": "00:00",
+        "progreso": 1
     },
     {
         "canal": "HBO.ar",
         "evento": "Black Adam",
         "hora_inicio": "17:59",
         "hora_fin": "20:05",
-        "progreso": 50
+        "progreso": 98
     },
     {
         "canal": "HBO2.ar",
-        "evento": "Undertone",
-        "hora_inicio": "18:00",
-        "hora_fin": "19:40",
-        "progreso": 62
+        "evento": "La posesión de la momia",
+        "hora_inicio": "19:40",
+        "hora_fin": "22:00",
+        "progreso": 16
     },
     {
         "canal": "HBOFamily.ar",
         "evento": "Kung Fu Panda 2",
         "hora_inicio": "18:49",
         "hora_fin": "20:22",
-        "progreso": 14
+        "progreso": 79
     },
     {
         "canal": "HBOMundi.ar",
-        "evento": "Los colonos",
-        "hora_inicio": "17:31",
-        "hora_fin": "19:14",
-        "progreso": 88
+        "evento": "Chamán: el exorcista pagano",
+        "hora_inicio": "19:14",
+        "hora_fin": "20:58",
+        "progreso": 46
     },
     {
         "canal": "HBOOeste.ar",
         "evento": "Te van a matar",
         "hora_inicio": "18:43",
         "hora_fin": "20:20",
-        "progreso": 19
+        "progreso": 82
     },
     {
         "canal": "HBOPlus(Panamericano).ar",
-        "evento": "El conjuro",
-        "hora_inicio": "18:00",
-        "hora_fin": "19:59",
-        "progreso": 52
+        "evento": "El conjuro 3",
+        "hora_inicio": "19:59",
+        "hora_fin": "21:59",
+        "progreso": 3
     },
     {
         "canal": "HBOPlusEste.ar",
-        "evento": "El conjuro",
-        "hora_inicio": "18:00",
-        "hora_fin": "19:59",
-        "progreso": 52
+        "evento": "El conjuro 3",
+        "hora_inicio": "19:59",
+        "hora_fin": "21:59",
+        "progreso": 3
     },
     {
         "canal": "HBOPlusPanregional.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "HBOPop.ar",
-        "evento": "CHIPS: patrulla motorizada recargada",
-        "hora_inicio": "17:59",
-        "hora_fin": "19:44",
-        "progreso": 60
+        "evento": "Son como niños",
+        "hora_inicio": "19:44",
+        "hora_fin": "21:29",
+        "progreso": 17
     },
     {
         "canal": "HBOSignature.ar",
         "evento": "HDP",
-        "hora_inicio": "18:46",
-        "hora_fin": "19:15",
-        "progreso": 55
+        "hora_inicio": "19:48",
+        "hora_fin": "20:20",
+        "progreso": 46
     },
     {
         "canal": "HBOXtreme(Oeste).ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "HBOXtreme(Panamericano).ar",
-        "evento": "La supremacía de Bourne",
-        "hora_inicio": "17:54",
-        "hora_fin": "19:45",
-        "progreso": 61
+        "evento": "El ultimátum de Bourne",
+        "hora_inicio": "19:45",
+        "hora_fin": "21:45",
+        "progreso": 14
     },
     {
         "canal": "HBOXtreme(Panregional).ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "HBOXtreme.ar",
-        "evento": "La supremacía de Bourne",
-        "hora_inicio": "17:54",
-        "hora_fin": "19:45",
-        "progreso": 61
+        "evento": "El ultimátum de Bourne",
+        "hora_inicio": "19:45",
+        "hora_fin": "21:45",
+        "progreso": 14
     },
     {
         "canal": "HGTV.ar",
-        "evento": "Nuestro hogar frente al lago: renovación",
-        "hora_inicio": "18:37",
-        "hora_fin": "19:25",
-        "progreso": 52
+        "evento": "La búsqueda del diseñador estrella",
+        "hora_inicio": "19:25",
+        "hora_fin": "20:11",
+        "progreso": 82
     },
     {
         "canal": "HispanTV.ar",
-        "evento": "Irán 25",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "La guerra de El Líbano, vida cotidiana",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "History.ar",
         "evento": "Misterios inexplorados con Danny Trejo",
-        "hora_inicio": "18:32",
-        "hora_fin": "19:21",
-        "progreso": 61
+        "hora_inicio": "19:21",
+        "hora_fin": "20:10",
+        "progreso": 85
     },
     {
         "canal": "History2.ar",
-        "evento": "La Ilíada y la Odisea",
-        "hora_inicio": "18:55",
-        "hora_fin": "19:25",
-        "progreso": 23
+        "evento": "Ciudades ocultas",
+        "hora_inicio": "19:25",
+        "hora_fin": "20:20",
+        "progreso": 68
     },
     {
         "canal": "HolaTV.ar",
-        "evento": "La lista VIP",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "Las consejeras de estilo",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "HTV.ar",
         "evento": "HTV",
         "hora_inicio": "14:00",
         "hora_fin": "01:00",
-        "progreso": 45
+        "progreso": 54
     },
     {
         "canal": "I-SAT.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "InvestigationDiscovery.ar",
-        "evento": "El precio de la fama",
-        "hora_inicio": "18:22",
-        "hora_fin": "19:09",
-        "progreso": 85
+        "evento": "Demonios de Hollywood",
+        "hora_inicio": "19:09",
+        "hora_fin": "20:43",
+        "progreso": 57
     },
     {
         "canal": "IVC.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "KZO.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "LasEstrellas.ar",
         "evento": "Hotel todo incluido",
         "hora_inicio": "16:25",
         "hora_fin": "21:50",
-        "progreso": 48
+        "progreso": 67
     },
     {
         "canal": "Lifetime.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "LN+.ar",
-        "evento": "+Noticias sábado",
-        "hora_inicio": "16:00",
-        "hora_fin": "20:00",
-        "progreso": 75
+        "evento": "+Info a la noche",
+        "hora_inicio": "20:00",
+        "hora_fin": "23:00",
+        "progreso": 1
     },
     {
         "canal": "MasChic.ar",
-        "evento": "TURN: espías de Washington",
-        "hora_inicio": "18:15",
-        "hora_fin": "19:05",
-        "progreso": 94
+        "evento": "The Son",
+        "hora_inicio": "19:55",
+        "hora_fin": "20:45",
+        "progreso": 15
     },
     {
         "canal": "Metro.ar",
-        "evento": "Medicina para vivir 100 años",
-        "hora_inicio": "18:30",
-        "hora_fin": "19:30",
-        "progreso": 53
+        "evento": "Weekend Show",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "MTV.ar",
         "evento": "Catfish",
-        "hora_inicio": "18:40",
-        "hora_fin": "19:25",
-        "progreso": 49
+        "hora_inicio": "19:25",
+        "hora_fin": "20:05",
+        "progreso": 94
     },
     {
         "canal": "MTVHits.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "MuchMusic.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Musictop.ar",
         "evento": "MusicTop",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "NatGeoKids.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "NationalGeographic.ar",
-        "evento": "Secretos de cuerpos antiguos",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:58",
-        "progreso": 3
+        "evento": "Tesoros perdidos de Egipto",
+        "hora_inicio": "19:58",
+        "hora_fin": "20:59",
+        "progreso": 7
     },
     {
         "canal": "NationalGeographicWild.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "NBATV.ar",
-        "evento": "WNBA Shot Clock: Games of the Night",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "WNBA Shot Clock - Games of the Week",
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "progreso": 2
     },
     {
         "canal": "NetTV.ar",
-        "evento": "Franquicias que crecen",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "Entre nos",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Nick2.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "NickJr..ar",
-        "evento": "El pequeño reino de Ben y Holly",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:20",
-        "progreso": 10
+        "evento": "Rubble y equipo",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:20",
+        "progreso": 14
     },
     {
         "canal": "NickToons.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Pakapaka.ar",
-        "evento": "Superinsectos",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:15",
-        "progreso": 13
+        "evento": "Medialuna",
+        "hora_inicio": "19:45",
+        "hora_fin": "20:15",
+        "progreso": 59
     },
     {
         "canal": "ParamountNetwork.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Pasiones.ar",
         "evento": "Tres hermanas",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "PenthouseGold.ar",
         "evento": "Actriz porno mi porfesión",
         "hora_inicio": "19:00",
         "hora_fin": "20:30",
-        "progreso": 2
+        "progreso": 69
     },
     {
         "canal": "Playboy.ar",
-        "evento": "Cougars on Demand",
-        "hora_inicio": "18:26",
-        "hora_fin": "19:47",
-        "progreso": 44
+        "evento": "E-Rotic",
+        "hora_inicio": "19:47",
+        "hora_fin": "20:13",
+        "progreso": 60
     },
     {
         "canal": "Quiero.ar",
         "evento": "Los 60 +",
         "hora_inicio": "16:30",
         "hora_fin": "20:30",
-        "progreso": 63
+        "progreso": 88
     },
     {
         "canal": "RaiItalia.ar",
-        "evento": "Punto Europa",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "TG Rai News",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "RussiaToday.ar",
-        "evento": "Noticias",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:30",
-        "progreso": 6
+        "evento": "Ahí les va",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "SmithsonianChannel.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Sony.ar",
         "evento": "Ben-Hur",
         "hora_inicio": "18:00",
         "hora_fin": "20:20",
-        "progreso": 44
+        "progreso": 87
     },
     {
         "canal": "Space.ar",
         "evento": "Los duros",
         "hora_inicio": "18:01",
         "hora_fin": "20:07",
-        "progreso": 48
+        "progreso": 96
     },
     {
         "canal": "StarAction(Oeste).ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarAction.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarChannel.ar",
         "evento": "Alien 3",
         "hora_inicio": "17:45",
         "hora_fin": "20:07",
-        "progreso": 54
+        "progreso": 97
     },
     {
         "canal": "StarCinema.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarClassics.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarComedy.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarFun(Oeste).ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarFun.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarHits.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarLife.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarSeries(Oeste).ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StarSeries.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "StudioUniversal.ar",
         "evento": "Navidad en el Plaza",
         "hora_inicio": "18:40",
         "hora_fin": "20:15",
-        "progreso": 23
+        "progreso": 87
     },
     {
         "canal": "Syfy.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "TaTeTi.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "TBS.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "TCM.ar",
-        "evento": "Derecho de familia",
-        "hora_inicio": "17:37",
-        "hora_fin": "19:17",
-        "progreso": 85
+        "evento": "Una Venus en visón",
+        "hora_inicio": "19:17",
+        "hora_fin": "21:12",
+        "progreso": 39
     },
     {
         "canal": "TECtv.ar",
         "evento": "TecTV",
-        "hora_inicio": "16:00",
-        "hora_fin": "20:00",
-        "progreso": 75
+        "hora_inicio": "20:00",
+        "hora_fin": "00:00",
+        "progreso": 1
     },
     {
         "canal": "Telediario.ar",
-        "evento": "La canción de tu vida",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "Mariana de viaje",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     },
     {
         "canal": "Telefe.ar",
-        "evento": "DirecTV - DGO Presentan: Espiando la casa",
-        "hora_inicio": "17:00",
-        "hora_fin": "19:15",
-        "progreso": 90
+        "evento": "Escape perfecto",
+        "hora_inicio": "19:15",
+        "hora_fin": "21:15",
+        "progreso": 39
     },
     {
         "canal": "TelefeCordoba.ar",
-        "evento": "DirecTV - DGO Presentan: Espiando la casa",
-        "hora_inicio": "17:00",
-        "hora_fin": "19:15",
-        "progreso": 90
+        "evento": "Por el mundo Mundial",
+        "hora_inicio": "19:15",
+        "hora_fin": "22:00",
+        "progreso": 28
     },
     {
         "canal": "TelefeRosario.ar",
         "evento": "A confirmar",
         "hora_inicio": "16:45",
         "hora_fin": "22:00",
-        "progreso": 43
+        "progreso": 62
     },
     {
         "canal": "TelefeSantaFe.ar",
-        "evento": "Relatos de viajeros",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:15",
-        "progreso": 13
+        "evento": "Escape perfecto",
+        "hora_inicio": "19:15",
+        "hora_fin": "21:15",
+        "progreso": 39
     },
     {
         "canal": "Telehit.ar",
-        "evento": "Double Play",
-        "hora_inicio": "18:30",
-        "hora_fin": "19:30",
-        "progreso": 53
+        "evento": "Dale Play",
+        "hora_inicio": "19:30",
+        "hora_fin": "20:30",
+        "progreso": 54
     },
     {
         "canal": "Telemax.ar",
-        "evento": "Salta es una canción",
-        "hora_inicio": "18:30",
-        "hora_fin": "19:30",
-        "progreso": 53
+        "evento": "Documentales de interés general",
+        "hora_inicio": "19:30",
+        "hora_fin": "23:00",
+        "progreso": 15
     },
     {
         "canal": "TelemundoInternacional.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "teleSUR.ar",
         "evento": "Titulares",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:05",
-        "progreso": 41
+        "hora_inicio": "20:00",
+        "hora_fin": "20:05",
+        "progreso": 56
     },
     {
         "canal": "TelevisionPublica.ar",
         "evento": "Francia vs. Inglaterra",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "progreso": 2
     },
     {
         "canal": "TierraMiaTV.ar",
         "evento": "TierraMia TV",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "TLC.ar",
         "evento": "Cásate conmigo",
-        "hora_inicio": "18:37",
-        "hora_fin": "19:24",
-        "progreso": 53
+        "hora_inicio": "19:24",
+        "hora_fin": "20:11",
+        "progreso": 82
     },
     {
         "canal": "TLNovelas.ar",
         "evento": "Amorcito corazón",
         "hora_inicio": "18:10",
         "hora_fin": "22:10",
-        "progreso": 21
+        "progreso": 47
     },
     {
         "canal": "TN.ar",
         "evento": "Sábado en TN",
         "hora_inicio": "16:30",
         "hora_fin": "21:00",
-        "progreso": 56
+        "progreso": 78
     },
     {
         "canal": "TNT.ar",
         "evento": "Golpe bajo: el juego final",
         "hora_inicio": "18:09",
         "hora_fin": "20:11",
-        "progreso": 43
+        "progreso": 93
     },
     {
         "canal": "TNTSeries.ar",
         "evento": "CSI: Miami",
-        "hora_inicio": "18:41",
-        "hora_fin": "19:33",
-        "progreso": 40
+        "hora_inicio": "19:33",
+        "hora_fin": "20:22",
+        "progreso": 60
     },
     {
         "canal": "Tooncast.ar",
         "evento": "El campamento de Lazlo",
-        "hora_inicio": "18:53",
-        "hora_fin": "19:04",
-        "progreso": 82
+        "hora_inicio": "19:51",
+        "hora_fin": "20:04",
+        "progreso": 91
     },
     {
         "canal": "TruTV.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "TurismoVisionArgentina.ar",
         "evento": "Turismo Visión Argentina",
         "hora_inicio": "18:00",
         "hora_fin": "21:00",
-        "progreso": 34
+        "progreso": 68
     },
     {
         "canal": "TV5.ar",
-        "evento": "C'est archivé près de chez vous",
-        "hora_inicio": "18:54",
-        "hora_fin": "19:51",
-        "progreso": 14
+        "evento": "Circuit Nevers Magny-Cours to Chalon-Sur-Saône",
+        "hora_inicio": "19:51",
+        "hora_fin": "20:05",
+        "progreso": 84
     },
     {
         "canal": "TVCiudad.ar",
         "evento": "Info capital - Entrevistas",
         "hora_inicio": "19:00",
         "hora_fin": "22:00",
-        "progreso": 1
+        "progreso": 34
     },
     {
         "canal": "TVCortos.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "TVE.ar",
-        "evento": "Maestros de la costura",
-        "hora_inicio": "17:00",
-        "hora_fin": "19:45",
-        "progreso": 73
+        "evento": "Viaje al centro de la tele",
+        "hora_inicio": "19:45",
+        "hora_fin": "21:00",
+        "progreso": 23
     },
     {
         "canal": "TVGlobo.ar",
         "evento": "A confirmar",
         "hora_inicio": "14:40",
         "hora_fin": "20:30",
-        "progreso": 74
+        "progreso": 92
     },
     {
         "canal": "TVNacionalUruguay.ar",
-        "evento": "Canal 5 noticias",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "Los mundiales de México",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "TVNCHILE.ar",
         "evento": "Chile conectado",
         "hora_inicio": "17:00",
         "hora_fin": "21:30",
-        "progreso": 45
+        "progreso": 67
     },
     {
         "canal": "TVPublica.ar",
         "evento": "Francia vs. Inglaterra",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "hora_inicio": "20:00",
+        "hora_fin": "22:00",
+        "progreso": 2
     },
     {
         "canal": "TyCSports.ar",
-        "evento": "La cobertura de la Selección Argentina y el postpartido de Francia vs. Inglaterra",
-        "hora_inicio": "18:00",
-        "hora_fin": "20:00",
-        "progreso": 51
+        "evento": "La previa de la Final del Mundial",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:30",
+        "progreso": 3
     },
     {
         "canal": "TyCSports2.ar",
         "evento": "TyC Sports 2",
         "hora_inicio": "13:00",
         "hora_fin": "00:00",
-        "progreso": 54
+        "progreso": 64
     },
     {
         "canal": "UniversalTV.ar",
         "evento": "Policías de Chicago",
-        "hora_inicio": "18:30",
-        "hora_fin": "19:20",
-        "progreso": 64
+        "hora_inicio": "19:20",
+        "hora_fin": "20:10",
+        "progreso": 85
     },
     {
         "canal": "UruguayNaturalTV.ar",
         "evento": "Uruguay Natural TV",
-        "hora_inicio": "16:00",
-        "hora_fin": "20:00",
-        "progreso": 75
+        "hora_inicio": "20:00",
+        "hora_fin": "00:00",
+        "progreso": 1
     },
     {
         "canal": "Venus.ar",
-        "evento": "10 chicas traviesas",
-        "hora_inicio": "18:02",
-        "hora_fin": "19:28",
-        "progreso": 69
+        "evento": "Tricked Into Public Sex",
+        "hora_inicio": "19:28",
+        "hora_fin": "20:58",
+        "progreso": 38
     },
     {
         "canal": "VH1.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "VH1MegaHits.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Viajar.ar",
         "evento": "No Data",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "Volver.ar",
-        "evento": "Los extraterrestres",
-        "hora_inicio": "18:00",
-        "hora_fin": "19:40",
-        "progreso": 62
+        "evento": "Los fierecillos indomables",
+        "hora_inicio": "19:40",
+        "hora_fin": "21:00",
+        "progreso": 28
     },
     {
         "canal": "VTV.ar",
-        "evento": "VTV al día",
-        "hora_inicio": "19:00",
-        "hora_fin": "20:00",
-        "progreso": 3
+        "evento": "VTV Noticias - Especial entrevistas",
+        "hora_inicio": "20:00",
+        "hora_fin": "21:00",
+        "progreso": 4
     },
     {
         "canal": "WarnerChannel.ar",
         "evento": "Transformers: La era de la extinción",
         "hora_inicio": "18:53",
         "hora_fin": "22:00",
-        "progreso": 4
+        "progreso": 37
     },
     {
         "canal": "ZooMoo.ar",
-        "evento": "ZooMoo tiene cerebro",
-        "hora_inicio": "19:00",
-        "hora_fin": "19:15",
-        "progreso": 13
+        "evento": "Estrellas animales",
+        "hora_inicio": "20:00",
+        "hora_fin": "20:30",
+        "progreso": 9
     }
 ]
